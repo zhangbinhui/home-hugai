@@ -9,6 +9,11 @@ export default {
     navbar: [
         // NavbarItem
         {
+          text: '首页',
+          link: '/README.md',            
+        },  
+        // NavbarItem
+        {
           text: '服务入口',
           link: '/guide/links',
         },  
@@ -22,7 +27,7 @@ export default {
             },
             {
               text: '生产力',
-              children: ['/productivity/HaiAPI.md', '/free/simple.md'],
+              children: ['/productivity/next.md','/productivity/HaiAPI.md' ],
             }  
           ],
         },
@@ -48,7 +53,7 @@ export default {
       {
         text: '生产力',
         children: [
-          '/pandora.md', 
+          '/productivity/next.md', 
           '/productivity/HaiAPI.md',],
       },
     ],

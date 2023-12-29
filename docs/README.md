@@ -19,7 +19,7 @@ features:
   - title: 生产力
     details: 稳定可靠的国内OpenAI API中转服务，无需注册，即买即用。
   - title: 持续优化
-    details: 及时跟进业内动态，同步更新服务及使用文档。
+    details: 及时跟进业内动态，搬运最新最top的Ai服务。
 
 footer: Copyright © 2024 Ai自强少年
 ---
