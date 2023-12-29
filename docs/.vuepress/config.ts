@@ -33,8 +33,14 @@ export default {
         },
         // NavbarItem
         {
-            text: '状态监控',
+            text: '服务状态',
             link: 'https://status.hugai.top',
+        },
+
+        // NavbarItem
+        {
+          text: 'OpenAI官方状态',
+          link: 'https://status.openai.com/',
         },
 
       ],
