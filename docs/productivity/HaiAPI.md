@@ -53,7 +53,7 @@ gpt-4-vision-preview 仍在开发中，敬请期待。
 
 所以决定再为有API使用需求的用户们提供官方 OpenAI API 中转服务，这样大家无需折腾繁琐的 OpenAI 账号注册和缴费流程，就能用与官方相同的价格使用 ChatGPT API。
 
-## 如何购买？
+## 如何购买Key？
 
 点击链接 [Ai自强少年的小店](https://shop.zhongzhuanyong.fun) ，选择对应Token额度的Key购买即可：
 
@@ -159,7 +159,6 @@ https://api.hugai.top/openai/v1/chat/completions
 
 ![image.png](HaiAPI/image-5.png)
 
-### 其他终端的使用方式遇到了再补充。
 
 ## 定价规则
 
@@ -192,29 +191,6 @@ OpenAI 官网给出的定价：[Pricing](https://openai.com/pricing)
 而最早的GPT-4 的相对来说就非常贵了，gpt-4 是GPT-3.5 Turbo 的30倍，gpt-4-32k 是60倍，不推荐使用。 
 
 ![image.png](HaiAPI/image-7-1.png)
-
-
-## 常见问题
-
-### 为什么 gpt-4-turbo 额度消耗这么快？
-
-- gpt-4-turbo 的消耗速度是 gpt-3.5-turbo 的 10 到 20 倍，假设购买了 5w token(1块钱)，我们用 15 倍作为平均倍率，也就是 50000 / 15 = 3000 字左右，加上每次要附带上历史消息，能发的消息数将会进一步减半，在最极限的情况下，一篇长文章就能把 5w token 消耗完，所以请谨慎使用。
-
-### 使用 尊享 ChatGPT 时，有哪些节省 token 的小技巧？
-
-- 点开对话框上方的设置按钮，找到里面的设置项：
-
-    - **携带历史消息数**：数量越少，消耗 token 越少，但同时 gpt 会忘记之前的对话
-
-    - **历史摘要**：用于记录长期话题，关闭后可以减少 token 消耗
-
-    - **注入系统级提示词**：用于提升 ChatGPT 的回复质量，关闭后可减少 token 消耗
-
-- 在对话时，点击对话框上方的机器人图标，可以快捷切换模型，可以优先使用 3.5 问答，如果回答不满意，再切换为 4.0 重新提问。
-
-### 如何快速知道当前聊天的模型？
-
-![image.png](HaiAPI/image-8.png)
 
 ## 用户协议
 
