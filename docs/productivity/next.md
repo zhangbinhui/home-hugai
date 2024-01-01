@@ -4,7 +4,7 @@
 您可以先查阅 [简洁 ChatGPT 介绍](/free/simple.md)，尊享版的界面与简洁版基本一致，如果您只需用到gpt-3.5-turbo(OpenAI) 或者 gemini-pro(Google),那可以直接用[简洁ChatGPT](https://simple.hugai.top)，而且是**免费**的，无需使用尊享版。
 :::
 
-🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT网页服务，[尊享ChatGPT](https://next.hugai.top),本文仅介绍与[简洁 ChatGPT 介绍](/free/simple.md)有差异的部分。
+🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT网页服务：尊享 ChatGPT, 本文仅介绍与[简洁 ChatGPT 介绍](/free/simple.md)有差异的部分。
 
 ::: tip 最新动态 2023-11-08
 已支持 gpt-4-1106-preview，gpt-3.5-turbo-1106 。
@@ -12,7 +12,7 @@
 gpt-4-vision-preview 仍在开发中，敬请期待。
 :::
 
-👉访问地址：[尊享ChatGPT](https://next.hugai.top), 需要搭配Key使用。
+👉访问地址：[尊享ChatGPT](https://next.hugai.top) ([备用链接](https://nb.hugai.top)), 需要搭配Key使用。
 
 👉购买Key：[Ai自强少年的小店](https://shop.zhongzhuanyong.fun)。
 
