@@ -1,15 +1,19 @@
 # 尊享 ChatGPT 介绍
 
 ::: tip 写在开始之前
-您可以先查阅 [简洁 ChatGPT 介绍](/free/simple.md)，尊享版的界面与简洁版基本一致，如果您只需用到gpt-3.5-turbo(OpenAI) 或者 gemini-pro(Google),那可以直接用[简洁ChatGPT](https://simple.hugai.top)，而且是**免费**的，无需使用尊享版。
+您可以先查阅 [简洁 ChatGPT 介绍](/free/simple.md)，尊享版的界面与简洁版基本一致，如果您只是想体验gpt-3.5-turbo(OpenAI) 或者 gemini-pro(Google), 那可以直接用[简洁ChatGPT](https://simple.hugai.top)，而且是**免费**的，无需使用尊享版。
 :::
 
-🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT网页服务：尊享 ChatGPT, 本文仅介绍与[简洁 ChatGPT 介绍](/free/simple.md)有差异的部分。
+🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT网页服务：尊享 ChatGPT, 本文仅介绍与[简洁 ChatGPT](/free/simple.md)有差异的部分。
 
-::: tip 最新动态 2023-11-08
-已支持 gpt-4-1106-preview，gpt-3.5-turbo-1106 。
-
-gpt-4-vision-preview 仍在开发中，敬请期待。
+::: tip 最新动态 2024-01-05
+支持一批三方插件，目前直接可用的包括：
+- 搜索引擎：支持联网搜索
+- 计算器：用于计算数学表达式
+- 网页浏览器：从网页中提取信息或总结其内容
+- 维基百科：从维基百科获取数据
+- PDF浏览器：从pdf文件的url中提取文档信息或总结内容
+- WolframAlpha：回答有关数学，科学，技术，文化，社会的问题
 :::
 
 👉访问地址：[尊享ChatGPT](https://next.hugai.top) ([备用链接](https://nb.hugai.top)), 需要搭配Key使用。
@@ -20,23 +24,33 @@ gpt-4-vision-preview 仍在开发中，敬请期待。
 
 ## 与简洁版相比强在哪？
 
-1. 尊享版支持gpt4，目前已支持 gpt-4-1106-preview，知识库更新到2023年4月；而gpt-3.5-turbo 知识库截止2021年9月。
+### 1. 支持gpt4
+目前已支持 gpt-4-1106-preview，知识库更新到2023年4月；而gpt-3.5-turbo 知识库截止2021年9月。
 
-    ![models.png](next/models.png)
+![models.png](next/models.png)
 
-2. 后续会继续支持多模态输入输出模型：
+### 2. 支持插件功能
+目前直接可用的包括：
+- 搜索引擎：支持联网搜索
+- 计算器：用于计算数学表达式
+- 网页浏览器：从网页中提取信息或总结其内容
+- 维基百科：从维基百科获取数据
+- PDF浏览器：从pdf文件的url中提取文档信息或总结内容
+- WolframAlpha：回答有关数学，科学，技术，文化，社会的问题
+
+  后续在中转服务也升级后，将支持的插件及模型：
     - 会读图的：gpt4-vision-preview
     - 文生图的：DALL.E3
-    - 文本转语音的：tts
-    - 语音转文字的：whisper
 
-3. 后续会继续支持插件功能；
+![插件列表.png](next/插件列表.png)
 
 ## 如何使用？
 
 尊享版通过调用[国内OpenAI API 中转服务](/productivity/HaiAPI.md)的接口使用ChatGPT，接口调用需要用到密钥，也就是Key。
 
-第一步：[您需要先购买Key](/productivity/HaiAPI.html#如何购买key); 买到的Key是以 **ak-开头的一长串英文**，区别于官方以sk-开头的Key;
+第一步：[您需要先购买Key](/productivity/HaiAPI.html#如何购买key); 
+
+买到的Key是以 **ak-开头的一长串英文**，区别于官方以sk-开头的Key;
 
 第二步：[将Key填入设置页面的**API KEY**](/productivity/HaiAPI.html#在-尊享chatgpt-中使用), 点击重新检查，就可以查询当前Key的使用情况。
 
@@ -44,11 +58,60 @@ gpt-4-vision-preview 仍在开发中，敬请期待。
 
 ![charge.png](next/charge.png)
 
+## 插件功能如何使用？
+
+::: tip 建议
+用插件的时候，模型选择最新的 gpt-4-1106-preview
+
+**是否调用插件以及什么时候调用插件是由 GPT 自己决定的**，插件返回结果后再由 GPT 合并上下文信息，回答用户的问题，同样的工具给更聪明的模型用可以带来更好的效果。
+
+而如果想触发一些插件可以在 prompt 中进行引导，比如：帮我在网上搜索xxx、使用wiki查找xxx、计算xxxxx等等，大家自行体验。
+:::
+
+### 1. 在插件列表页，将常用的勾选上
+
+![插件用法.png](next/插件用法.png)
+
+### 2. 在聊天窗口打开插件开关(默认是打开的)
+
+![如何使用.png](next/如何使用.png)
+
+### 3. 插件功能使用示例
+
+- 联网搜索，使用的搜索引擎是地表最强的那个：
+
+![联网搜索.png](next/联网搜索.png)
+
+- PDF浏览器, 目前仅支持从pdf文件的url中提取文档信息或总结内容，不能直接上传pdf。
+
+::: warning 提醒
+pdf文档通常很大，解析pdf的内容需要不少时间，所以使用这个插件响应会慢，需要耐心。
+:::
+
+![pdf-reader.png](next/pdf-reader.png)
+
+- 网页浏览器：从网页中提取信息或总结其内容
+
+![获取网站信息.png](next/获取网站信息.png)
+
+- 维基百科：有啥不懂的可以问问百科全书
+
+![维基百科.png](next/维基百科.png)
+
+- WolframAlpha：回答有关数学，科学，技术，文化，社会的问题，功能强大，对搞学术的朋友比较有用
+
+![函数绘图.png](next/函数绘图.png)
+
+- 在同一个聊天窗口，插件可以组合使用，GPT 真的聪明
+
+![插件组合使用.png](next/插件组合使用.png)
+
+
 ## 常见问题
 
-### 为什么 gpt-4-turbo 额度消耗这么快？
+### 为什么 gpt-4 额度消耗这么快？
 
-- gpt-4-turbo 的消耗速度是 gpt-3.5-turbo 的 10 到 20 倍。
+- gpt-4 模型的消耗速度是 gpt-3.5-turbo 的 10 到 20 倍。
     
     假设购买了 5w token(1块钱)，我们用 15 倍作为平均倍率，也就是 50000 / 15 = 3000 字左右，加上每次要附带上历史消息，能发的消息数将会进一步减半，在最极限的情况下，一篇长文章就能把 5w token 消耗完，所以请谨慎使用。
 
@@ -68,11 +131,19 @@ gpt-4-vision-preview 仍在开发中，敬请期待。
 
 ![image-8.png](next/image-8.png)
 
+### 为什么使用插件时返回结果不固定，偶尔甚至无响应？
+
+1. 是否调用插件，什么时候调用插件，传什么信息给插件都是由 GPT 自己决定的，插件返回结果之后也是GPT结合上下文再给回答的，因为GPT的回答本身就存在随机性，所以返回结果不固定。
+
+2. 为了保证插件的效果，最好使用gpt-4 或 gpt-4 turbo模型 ，如gpt-4-1106-preview，更聪明，也更精确，gpt-3.5-turbo存在杜撰的可能性。
+
+3. 不同的插件对应不同的三方服务接口，从插件调用到结果返回，服务器需要同时与插件接口和OpenAI交互，客观上就会慢，并且如果网络还出现波动，可能就会无响应了。
+
 ### 为什么吐字时快时慢，甚至偶尔无响应呢？
 
 这个服务的可用，同时满足我提供的客户端服务，国内的OpenAI API中转服务，官方的OpenAI API 服务 都正常才行。
 
-所以我贴心地在 [首页](https://home.hugai.top)导航栏 准备了一个[状态监控](https://status.hugai.top) 界面，如果出现持续性的网络波动，无响应，请先查看服务监控状态。
+所以我贴心地在 导航栏 准备了一个[状态监控](https://status.hugai.top) 界面，如果出现持续性的网络波动，无响应，请先查看服务监控状态（不含插件服务）。
 
 ![nav-bar.png](next/nav-bar.png)
 
