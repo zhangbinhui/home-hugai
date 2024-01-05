@@ -1,14 +1,14 @@
-# 简洁 ChatGPT 介绍
+# 简洁 GPT 介绍
 
-🎉欢迎使用 Ai自强少年 提供的免费 ChatGPT网页服务，本文介绍全新的 [简洁ChatGPT](https://simple.hugai.top)。
+🎉欢迎使用 Ai自强少年 提供的 **免费** ChatGPT网页服务，本文介绍全新的 [简洁GPT](https://simple.hugai.top)。
 
 :::tip 最新动态 2023-12-31
-[简洁ChatGPT](https://simple.hugai.top) 现在同时支持OpenAI的gpt-3.5-turbo 和 Google的Gemini Pro啦。
+[简洁 GPT](https://simple.hugai.top) 现在同时支持OpenAI的gpt-3.5-turbo 和 Google的Gemini Pro啦。
 :::
 
-👉访问地址[简洁ChatGPT](https://simple.hugai.top), 访问密码 在公众号回复 **gpt** 获得。
+👉访问地址[简洁 GPT](https://simple.hugai.top), 访问密码 在公众号回复 **gpt** 获得。
 
-💡想体验完整版功能，请移步使用公众号生产力板块：[尊享ChatGPT](https://next.hugai.top)。
+💡想体验完整版功能，请移步使用公众号生产力板块：[尊享 GPT](/productivity/next.md)。
 
 🚦网络环境：各地网络环境不同，如无法访问则说明缘分未到，不必勉强。若是钢铁般的需求，可以公众号私信联系，我帮你想想办法。
 
@@ -28,29 +28,17 @@
 
 ## 如何使用？
 
-首先，公众号聊天窗口回复 **gpt** 就获得访问密码。
+首先，公众号聊天窗口回复 **gpt** 就能获得访问密码。
 
 然后，在侧边栏左下角点设置按钮，👉 ![image.png](simple/image.png)
 
-找到 **访问密码** 那一行填入即可。
+找到 **访问密码** 那一行填入即可，然后就可以愉快地聊天了。
 
 ![passwod1.png](simple/passwod1.png)
 
-你可以在聊天界面自行选择OpenAI的**gpt-3.5-turbo** 或者 Google的**gemini-pro**，都是免费的哦。
+你可以在聊天界面自行选择OpenAI的**gpt-3.5-turbo** 或者 Google的**gemini-pro**，都是**免费**的哦。
 
 ![example.jpg](simple/example.jpg)
-
-## 有哪些特色功能？
-
-自定义面具。每个面具代表一类角色，系统已经内置一部分，可以先行体验。
-
-![简洁版升级体验1.jpg](simple/简洁版升级体验1.jpg)
-
-
-
-熟练之后，可以自定义面具，比如网上自己找提示词，打造自己的小助理团队。可以[参考OpenAI官方的例子](https://platform.openai.com/examples)：
-
-![openai-examples.png](simple/openai-examples.png)
 
 ## 为什么可以免费？
 
@@ -75,7 +63,23 @@
 
 所以我现在是把这部分服务当作公益事业，希望能帮助更多朋友接触AI，体验AI带来的效率提升。
 
+## 什么是面具？
 
+面具 = 多个预设提示词 + 模型设置 + 对话设置。
+
+**预设提示词（Contextual Prompts）** 一般用于让 ChatGPT 生成更加符合要求的输出，也可以增加系统约束或者输入有限的额外知识。
+
+**模型设置** 则顾名思义，使用此面具创建的对话都会默认使用对应的模型参数。
+
+通俗地讲，**每个面具代表一类角色**，系统已经内置一部分，可以先行体验。
+
+![简洁版升级体验1.jpg](simple/简洁版升级体验1.jpg)
+
+
+
+熟练之后，可以自定义面具，比如网上自己找提示词，打造自己的小助理团队。可以[参考OpenAI官方的例子](https://platform.openai.com/examples)：
+
+![openai-examples.png](simple/openai-examples.png)
 
 ## 使用上有哪些注意事项？
 
@@ -91,7 +95,7 @@
 
 5. 可用性：这个服务可用，需要同时满足我提供的客户端服务，Pandora的免费代理服务，OpenAI的官方服务 都正常才行。
 
-    所以我贴心地在 [首页](https://home.hugai.top)导航栏 准备了一个[状态监控](https://status.hugai.top) 界面，如果出现持续性的报错，无响应，请先查看免费服务监控状态。
+    所以我贴心地在导航栏 准备了一个[状态监控](https://status.hugai.top) 界面，如果出现持续性的报错，无响应，请先查看免费服务监控状态。
 
 
 ![11.jpg](simple/11.jpg)

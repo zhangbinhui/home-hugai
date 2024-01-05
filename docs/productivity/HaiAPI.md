@@ -13,7 +13,9 @@ gpt-4-vision-preview 仍在开发中，敬请期待。
 
 ⚠️gtp-4-turbo 的额度消耗速度是 3.5 的 10 到 20 倍，单次聊天最高可能会消耗高达数万 token，请谨慎使用。
 
-💡网页版体验入口：[尊享ChatGPT](https://next.hugai.top) ，中转地址：**`https://api.hugai.top`**(备用中转地址：**`https://api-proxy.hugai.top`**)，哪个快用哪个，请搭配密钥使用。
+💡中转地址：**`https://api.hugai.top`**(备用中转地址：**`https://api-proxy.hugai.top`**)，哪个快用哪个，请搭配Key使用。
+
+👉 配套的网页ChatGPT体验入口：[尊享 GPT](https://next.hugai.top)，[备用地址](https://nb.hugai.top)
 
 🚦网络环境：各地连接速度不同，如无法访问说明缘分未到，不勉强；若是钢铁般的需求，请在微信公众号私信联系。
 
@@ -23,13 +25,9 @@ gpt-4-vision-preview 仍在开发中，敬请期待。
 
 - ChatBox
 
-- Sider
-
 - ChatGPT Next Web
 
 - ChatGPT Web
-
-- AMA
 
 - 沉浸式翻译
 
@@ -37,7 +35,7 @@ gpt-4-vision-preview 仍在开发中，敬请期待。
 
 - 以及各种各样的浏览器扩展
 
-同时大模型开发使用的 langchain、llamaindex 等库，往往需要用户传入 OpenAI API Key，但在很多情况下，国内的网络状况都不允许直连 api.openai.com （OpenAI 的 API 地址），所以我推出了此中转服务，它的特点：
+同时大模型开发使用的 langchain、llamaindex 等库，往往需要用户传入 OpenAI API Key，但在很多情况下，国内的网络状况都不允许直连 api.openai.com （OpenAI 的 API 地址），所以我提供了此中转服务，它的特点：
 
 - 稳定：我应该不会轻易跑路，毕竟这玩意儿也赚不了几个钱，只是用于维持公众号的日常运营；
 
@@ -49,25 +47,25 @@ gpt-4-vision-preview 仍在开发中，敬请期待。
 
 ## 为什么要提供这个中转服务？
 
-我在公众号上提供的两个免费项目 [原味ChatGPT](https://pandora.hugai.top) 和 [简洁ChatGPT](https://simple.hugai.top) 吸引了不少用户。然而，随着项目的功能稳定，来自文章的赞赏日益减少，而服务器，域名，网络都是需要持续投入的。
+我在公众号上提供的两个免费项目 [原味 GPT](https://pandora.hugai.top) 和 [简洁 GPT](https://simple.hugai.top) 吸引了不少用户。然而，随着项目的功能稳定，来自文章的赞赏日益减少，而服务器，域名，网络都是需要持续投入的。
 
 所以决定再为有API使用需求的用户们提供官方 OpenAI API 中转服务，这样大家无需折腾繁琐的 OpenAI 账号注册和缴费流程，就能用与官方相同的价格使用 ChatGPT API。
 
 ## 如何购买Key？
 
-点击链接 [Ai自强少年的小店](https://shop.zhongzhuanyong.fun) ，选择对应Token额度的Key购买即可：
+点击链接👉 [Ai自强少年的小店](https://shop.zhongzhuanyong.fun) ，选择对应Token额度的Key购买即可：
 
 ![小店截图.png](HaiAPI/小店截图.png)
 
-点击链接 [Key查询及充值页](https://usage.hugai.top) ，将购买的Key填入，可以用量情况及响应速度：
+点击链接👉 [Key查询及充值页](https://usage.hugai.top) ，将购买的Key填入，可以用量情况及响应速度：
 
 ![image.png](HaiAPI/image.png)
 
 ## 如何使用？
 
-在付款之后，可以订单页或者您预留的邮箱中找到刚刚买到的 API Key，搭配中转地址，即可无缝替代 OpenAI 官方 API。如果你是开发者，请查阅 OpenAI 官方 API 文档：
+在付款之后，可以订单页或者您预留的邮箱中找到刚刚买到的 API Key，搭配中转地址，即可无缝替代 OpenAI 官方 API。
 
-[platform.openai.com](https://platform.openai.com/docs/api-reference/completions/create)
+如果你是开发者，请查阅 OpenAI 官方 API 文档：[platform.openai.com](https://platform.openai.com/docs/api-reference/completions/create)
 
 使用时将官方文档中所有的 `https://api.openai.com` 替换为本服务提供的中转地址：**`https://api.hugai.top`** 或备用地址：**`https://api-proxy.hugai.top`**
 
@@ -92,7 +90,7 @@ export const OpenaiPath = {
 中转 API Key：ak-xxxxxxxxx
 ```
 
-### 在 尊享ChatGPT 中使用
+### 在本站的 尊享 GPT 中使用
 
 我们以 尊享ChatGPT 的演示站点为例，点开链接：[尊享 ChatGPT](https://next.hugai.top)
 

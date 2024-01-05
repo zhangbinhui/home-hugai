@@ -1,10 +1,10 @@
-# 尊享 ChatGPT 介绍
+# 尊享 GPT 介绍
 
 ::: tip 写在开始之前
-您可以先查阅 [简洁 ChatGPT 介绍](/free/simple.md)，尊享版的界面与简洁版基本一致，如果您只是想体验gpt-3.5-turbo(OpenAI) 或者 gemini-pro(Google), 那可以直接用[简洁ChatGPT](https://simple.hugai.top)，而且是**免费**的，无需使用尊享版。
+您可以先查阅 [简洁 GPT 介绍](/free/simple.md)，尊享版的界面与简洁版基本一致，如果您只是想体验gpt-3.5-turbo(OpenAI) 或者 gemini-pro(Google), 那可以直接用[简洁 GPT](https://simple.hugai.top)，而且是**免费**的，无需使用尊享版。
 :::
 
-🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT网页服务：尊享 ChatGPT, 本文仅介绍与[简洁 ChatGPT](/free/simple.md)有差异的部分。
+🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT网页服务：尊享 GPT ，本文仅介绍与简洁 GPT有差异的部分。
 
 ::: tip 最新动态 2024-01-05
 支持一批三方插件，目前直接可用的包括：
@@ -16,15 +16,15 @@
 - WolframAlpha：回答有关数学，科学，技术，文化，社会的问题
 :::
 
-👉访问地址：[尊享ChatGPT](https://next.hugai.top) ([备用链接](https://nb.hugai.top)), 需要搭配Key使用。
+👉访问地址：[尊享 GPT](https://next.hugai.top) ([备用链接](https://nb.hugai.top)), 需要搭配Key使用。
 
 👉购买Key：[Ai自强少年的小店](https://shop.zhongzhuanyong.fun)。
 
 🚦网络环境：各地网络环境不同，如无法访问则说明缘分未到，不必勉强。若是钢铁般的需求，可以公众号私信联系，我帮你想想办法。
 
-## 与简洁版相比强在哪？
+## 与简洁GPT相比强在哪？
 
-### 1. 支持gpt4
+### 1. 支持 gpt4 和 gpt-4-turbo
 目前已支持 gpt-4-1106-preview，知识库更新到2023年4月；而gpt-3.5-turbo 知识库截止2021年9月。
 
 ![models.png](next/models.png)
@@ -38,7 +38,7 @@
 - PDF浏览器：从pdf文件的url中提取文档信息或总结内容
 - WolframAlpha：回答有关数学，科学，技术，文化，社会的问题
 
-  后续在中转服务也升级后，将支持的插件及模型：
+  后续在配套的中转服务也升级后，将支持的插件及模型：
     - 会读图的：gpt4-vision-preview
     - 文生图的：DALL.E3
 
@@ -48,15 +48,33 @@
 
 尊享版通过调用[国内OpenAI API 中转服务](/productivity/HaiAPI.md)的接口使用ChatGPT，接口调用需要用到密钥，也就是Key。
 
-第一步：[您需要先购买Key](/productivity/HaiAPI.html#如何购买key); 
+第一步：您需要先购买Key；点击查看👉[如何购买Key？](/productivity/HaiAPI.html#如何购买key)
 
 买到的Key是以 **ak-开头的一长串英文**，区别于官方以sk-开头的Key;
 
-第二步：[将Key填入设置页面的**API KEY**](/productivity/HaiAPI.html#在-尊享chatgpt-中使用), 点击重新检查，就可以查询当前Key的使用情况。
+第二步：[将Key填入设置页面的**API KEY**](/productivity/HaiAPI.html#在-尊享chatgpt-中使用), 点击重新检查，如果有余额显示，表示一切正常，可以开始聊天啦！
 
-第三步：如果key的额度用完了，您可以再购买一个新的Key，打开[充值页面](https://usage.hugai.top/), 将新Key的额度充值到之前的Key中，这样就不需要在设置页面重新填Key，比较方便。
+::: tip 小提示
+如果key的额度用完了，您可以再购买一个新的Key，打开[充值页面](https://usage.hugai.top/), 将新Key的额度充值到之前的Key中，这样就不需要在设置页面重新填Key，比较方便。
+:::
 
 ![charge.png](next/charge.png)
+
+## 什么是插件？
+
+"GPT" 是 "Generative Pre-trained Transformer" 的缩写，翻译成中文就是“生成式预训练变换器”，通过使用大量的文本数据进行预训练，学习了语言的结构和用法，使其能够生成、理解和回应人类语言。
+
+**所以当前的GPT相当于一个静态的程序，并且只擅长处理文字。**
+
+比如gpt-4-1106-preview 的训练数据截止到2023年4月；而gpt-3.5-turbo 知识截止2021年9月。
+
+那我想跟大模型交流最近发生的事情怎么办？配套的插件便应运而生。
+
+首当其冲的就是联网搜索的插件，GPT发现自己的知识库中不包含这类信息时，会主动去网上搜内容，然后再回答你的问题。
+
+以此类推，大模型不擅长画图，所以就有了DALLE这种文生图的插件。当然DALLE本身是一个文生图的大模型，只是当它被ChatGPT调用时，你可以理解为一个外部插件。
+
+**插件就是为了补充GPT不擅长的领域，我们提供了一堆工具给GPT使用，扩充它的能力范围，以更好地满足我们的需求。**
 
 ## 插件功能如何使用？
 
