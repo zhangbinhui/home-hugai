@@ -18,7 +18,7 @@
 
 👉访问地址：[尊享 GPT](https://next.hugai.top) ([备用链接](https://nb.hugai.top)), 需要搭配Key使用。
 
-👉购买Key：[Ai自强少年的小店](https://shop.zhongzhuanyong.fun)。
+👉购买Key：[Ai自强少年的小店](https://shop.wehugai.com/)。
 
 🚦网络环境：各地网络环境不同，如无法访问则说明缘分未到，不必勉强。若是钢铁般的需求，可以公众号私信联系，我帮你想想办法。
 
