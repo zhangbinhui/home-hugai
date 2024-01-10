@@ -53,7 +53,7 @@ gpt-4-vision-preview 仍在开发中，敬请期待。
 
 ## 如何购买Key？
 
-点击链接👉 [Ai自强少年的小店](https://shop.zhongzhuanyong.fun) ，选择对应Token额度的Key购买即可：
+点击链接👉 [Ai自强少年的小店](https://shop.wehugai.com/) ，选择对应Token额度的Key购买即可：
 
 ![小店截图.png](HaiAPI/小店截图.png)
 

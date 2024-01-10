@@ -48,14 +48,26 @@
 
 尊享版通过调用[国内OpenAI API 中转服务](/productivity/HaiAPI.md)的接口使用ChatGPT，接口调用需要用到密钥，也就是Key。
 
-第一步：您需要先购买Key；点击查看👉[如何购买Key？](/productivity/HaiAPI.html#如何购买key)
+第一步：您需要先购买Key；
+
+点击链接👉 [Ai自强少年的小店](https://shop.wehugai.com/) ，选择对应Token额度的Key购买即可：
+
+![小店截图.png](HaiAPI/小店截图.png)
+
+点击链接👉 [Key查询及充值页](https://usage.hugai.top) ，将购买的Key填入，可以用量情况及响应速度：
+
+![image.png](HaiAPI/image.png)
 
 买到的Key是以 **ak-开头的一长串英文**，区别于官方以sk-开头的Key;
 
-第二步：[将Key填入设置页面的**API KEY**](/productivity/HaiAPI.html#在-尊享chatgpt-中使用), 点击重新检查，如果有余额显示，表示一切正常，可以开始聊天啦！
+第二步：将Key填入设置页面的**API KEY**, 点击重新检查，如果有余额显示，表示一切正常，可以开始聊天啦！
+
+![image.png](HaiAPI/image-1.png)
+
+![image.png](HaiAPI/image-2.png)
 
 ::: tip 小提示
-如果key的额度用完了，您可以再购买一个新的Key，打开[充值页面](https://usage.hugai.top/), 将新Key的额度充值到之前的Key中，这样就不需要在设置页面重新填Key，比较方便。
+如果key的额度用完了，您可以再购买一个新的，打开[充值页面](https://usage.hugai.top/), 将新Key的额度充值到之前的Key中，这样就不需要修改设置页面，比较方便。
 :::
 
 ![charge.png](next/charge.png)

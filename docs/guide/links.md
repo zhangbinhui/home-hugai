@@ -19,5 +19,5 @@ footer: Copyright © 2024 Ai自强少年
 
 ## 👇购买Key
 
-- [Ai自强少年的小店](https://shop.zhongzhuanyong.fun)
+- [Ai自强少年的小店](https://shop.wehugai.com)
 - [Key使用情况查询](https://usage.hugai.top)

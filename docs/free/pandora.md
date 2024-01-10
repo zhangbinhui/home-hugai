@@ -105,7 +105,7 @@ Pandora 的可玩性非常高，为了降低大家的上手成本，目前我仅
 
 回到 2.3 对应的页面，点击：
 
-![image.png](pandora/image 1.png)
+![image.png](pandora/image_1.png)
 
 ![febdd37bbfe7114de841b3458b922318.png](pandora/febdd37bbfe7114de841b3458b922318.png)
 
@@ -133,7 +133,7 @@ Pandora 的可玩性非常高，为了降低大家的上手成本，目前我仅
 
 为了保证安全，我在登录页面增加了一个简单的验证码，得先确保你是咱们人类同胞，才能继续进行登录。
 
-![image.png](pandora/image 2.png)
+![image.png](pandora/image_2.png)
 
 当然，不管你有没有账号，在第一次访问我的这个网页时都需要填入一个密码
 
