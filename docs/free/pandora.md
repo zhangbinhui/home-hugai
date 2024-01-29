@@ -1,11 +1,13 @@
 
-# 原味 GPT 介绍
+# 原味 GPT 介绍 [归档]
+
+:::warning 最新动态 2024-01-30
+原味 GPT 已停服，原因：[Pandora大佬退出，免费时代落幕](/essay/Pandora-quit.md)
+:::
 
 🎉欢迎使用 Ai自强少年 提供的免费 GPT网页服务，本文介绍全新的 原味 GPT。
 
-:::tip 最新动态 2023-12-29
-大家可以直接用 [原味 GPT](https://pandora.hugai.top) 注册ChatGPT账号了，拥有一个自己的账号难度降低`99%` 。
-:::
+🎉大家可以直接用 [原味 GPT](https://pandora.hugai.top) 注册ChatGPT账号了，拥有一个自己的账号难度降低`99%` 。
 
 👉访问地址 [原味 GPT](https://pandora.hugai.top)，访问密码 在公众号回复 **gpt** 获得。
 

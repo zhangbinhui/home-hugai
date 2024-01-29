@@ -10,7 +10,7 @@ actions:
     link: /guide/links
     type: primary
   - text: 功能介绍
-    link: /free/pandora
+    link: /productivity/next
     type: secondary
 
 features:

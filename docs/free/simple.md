@@ -1,10 +1,12 @@
-# 简洁 GPT 介绍
+# 简洁 GPT 介绍 [归档]
+
+:::warning 最新动态 2024-01-30
+简洁 GPT 已停服，原因：[Pandora大佬退出，免费时代落幕](/essay/Pandora-quit.md)
+:::
 
 🎉欢迎使用 Ai自强少年 提供的 **免费** ChatGPT网页服务，本文介绍全新的 [简洁GPT](https://simple.hugai.top)。
 
-:::tip 最新动态 2023-12-31
-[简洁 GPT](https://simple.hugai.top) 现在同时支持OpenAI的gpt-3.5-turbo 和 Google的Gemini Pro啦。
-:::
+🎉[简洁 GPT](https://simple.hugai.top) 现在同时支持OpenAI的gpt-3.5-turbo 和 Google的Gemini Pro啦。
 
 👉访问地址[简洁 GPT](https://simple.hugai.top), 访问密码 在公众号回复 **gpt** 获得。
 

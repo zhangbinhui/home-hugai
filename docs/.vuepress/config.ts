@@ -28,6 +28,10 @@ export default {
             {
               text: '生产力',
               children: ['/productivity/next.md','/productivity/HaiAPI.md' ],
+            },
+            {
+              text: '小作文',
+              children: ['/essay/Pandora-quit.md' ],
             }  
           ],
         },
@@ -61,6 +65,12 @@ export default {
         children: [
           '/productivity/next.md', 
           '/productivity/HaiAPI.md',],
+      },
+      {
+        text: '小作文',
+        children: [
+          '/essay/Pandora-quit.md', 
+          ],
       },
     ],
     
