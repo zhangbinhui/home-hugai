@@ -1,7 +1,7 @@
 # 尊享 GPT 介绍
 
 ::: tip 写在开始之前
-您可以先查阅 [简洁 GPT 介绍](/free/simple.md)，尊享版的界面与简洁版基本一致，如果您只是想体验gpt-3.5-turbo(OpenAI) 或者 gemini-pro(Google), 那可以直接用[简洁 GPT](https://simple.hugai.top)，而且是**免费**的，无需使用尊享版。
+如果您只是想体验gpt-4(OpenAI) 或者 画图功能 或者 gemini-pro(Google), 那可以直接用 [鲁树人GPT](https://lushuren.hugai.top)，而且是**免费**的，无需使用尊享版。
 :::
 
 🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT网页服务：尊享 GPT ，本文仅介绍与简洁 GPT有差异的部分。
@@ -41,6 +41,8 @@
   后续在配套的中转服务也升级后，将支持的插件及模型：
     - 会读图的：gpt4-vision-preview
     - 文生图的：DALL.E3
+
+    **意思是目前尊享版还不支持 画图 和 读图；**
 
 ![插件列表.png](next/插件列表.png)
 

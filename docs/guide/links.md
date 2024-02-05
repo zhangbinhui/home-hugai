@@ -7,8 +7,7 @@ footer: Copyright © 2024 Ai自强少年
 ## 🆓免费使用 
 #### 公众号回复gpt获取访问密码
 
-- [原味 GPT](https://pandora.hugai.top)
-- [简洁 GPT](https://simple.hugai.top)
+- [鲁树人GPT](https://lushuren.hugai.top)
 
 ## ⚡生产力
 #### 需搭配Key使用
