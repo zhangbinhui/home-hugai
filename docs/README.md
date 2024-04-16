@@ -17,7 +17,7 @@ features:
   - title: 极致白嫖
     details: 无需注册，无需魔法，免费使用ChatGPT 和 Gemini。
   - title: 生产力
-    details: 稳定可靠的OpenAI API中转服务，无需注册，即买即用，不会过期。
+    details: 稳定可靠的主流大模型 API中转服务，即买即用，不会过期。
   - title: 持续优化
     details: 及时跟进业内动态，搬运最新最top的Ai服务。
 

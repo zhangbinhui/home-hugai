@@ -27,7 +27,7 @@ export default {
             },
             {
               text: '生产力',
-              children: ['/productivity/next.md','/productivity/HaiAPI.md' ],
+              children: ['/productivity/next.md','/productivity/oneapi.md' ],
             },
             {
               text: '小作文',
@@ -65,7 +65,7 @@ export default {
         text: '生产力',
         children: [
           '/productivity/next.md', 
-          '/productivity/HaiAPI.md',],
+          '/productivity/oneapi.md',],
       },
       {
         text: '小作文',

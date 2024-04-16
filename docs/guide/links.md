@@ -10,13 +10,12 @@ footer: Copyright © 2024 Ai自强少年
 - [鲁树人GPT](https://lushuren.hugai.top)
 
 ## ⚡生产力
-#### 需搭配Key使用
+#### 令牌搭配中转地址使用主流大模型
 
-- [尊享 GPT](https://next.hugai.top)
-- [尊享 GPT 备用链接](https://nb.hugai.top)
-- [OpenAI API中转服务](/productivity/HaiAPI.md)
+- [OneAPI 中转服务](https://one-api.hugai.top)
+- 服务内置聊天客户端：[尊享GPT](https://nc.hugai.top)
 
-## 👇购买Key
+
+## 👇额度兑换码
 
 - [Ai自强少年的小店](https://shop.wehugai.com)
-- [Key使用情况查询](https://usage.hugai.top)

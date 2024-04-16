@@ -1,10 +1,6 @@
 # 尊享 GPT 介绍
 
-::: tip 写在开始之前
-如果您只是想体验gpt-4(OpenAI) 或者 画图功能 或者 gemini-pro(Google), 那可以直接用 [鲁树人GPT](https://lushuren.hugai.top)，而且是**免费**的，无需使用尊享版。
-:::
-
-🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT网页服务：尊享 GPT ，本文仅介绍与简洁 GPT有差异的部分。
+🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT网页服务：尊享 GPT。
 
 ::: tip 最新动态 2024-01-05
 支持一批三方插件，目前直接可用的包括：
@@ -48,25 +44,18 @@
 
 ## 如何使用？
 
-尊享版通过调用[国内OpenAI API 中转服务](/productivity/HaiAPI.md)的接口使用ChatGPT，接口调用需要用到密钥，也就是Key。
+尊享版通过调用[国内OpenAI API 中转服务](/productivity/oneapi.md)的接口使用ChatGPT，接口调用需要用到密钥，也就是Key。
 
 第一步：您需要先购买Key；
 
 点击链接👉 [Ai自强少年的小店](https://shop.wehugai.com/) ，选择对应Token额度的Key购买即可：
 
-![小店截图.png](HaiAPI/小店截图.png)
 
 点击链接👉 [Key查询及充值页](https://usage.hugai.top) ，将购买的Key填入，可以用量情况及响应速度：
-
-![image.png](HaiAPI/image.png)
 
 买到的Key是以 **ak-开头的一长串英文**，区别于官方以sk-开头的Key;
 
 第二步：将Key填入设置页面的**API KEY**, 点击重新检查，如果有余额显示，表示一切正常，可以开始聊天啦！
-
-![image.png](HaiAPI/image-1.png)
-
-![image.png](HaiAPI/image-2.png)
 
 ::: tip 小提示
 如果key的额度用完了，您可以再购买一个新的，打开[充值页面](https://usage.hugai.top/), 将新Key的额度充值到之前的Key中，这样就不需要修改设置页面，比较方便。
