@@ -117,7 +117,7 @@ pdf文档通常很大，解析pdf的内容需要不少时间，所以使用这�
 
 ### 详细的步骤看这里
 
-👉[如何在OneAPI中转服务中使用尊享GPT](/productivity/oneapi.md#如何使用)
+👉[如何在OneAPI中转服务中使用尊享GPT](/productivity/one-api.md#如何使用)
 
 ## 什么是插件？
 
