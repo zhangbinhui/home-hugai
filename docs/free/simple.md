@@ -1,4 +1,4 @@
-# 简洁 GPT 介绍 [停服归档]
+# 简洁 GPT [停服归档]
 
 :::warning 最新动态 2024-01-30
 简洁 GPT 已停服，原因：[Pandora大佬退出，免费时代落幕](/essay/Pandora-quit.md)
