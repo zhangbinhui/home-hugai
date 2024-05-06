@@ -33,7 +33,7 @@
 
 1. 打开[秦 Plus](https://qinplus.hugai.top)，你将看到这样一个页面：
 
-![image.png](plus/plus-login.png)
+![plus-login.png](plus/plus-login.png)
 
 2. 第一次用，你可以自定义一个用户名，然后买票填入上车即可；
 
@@ -49,11 +49,11 @@
 
 你需要同时填写 **用户名** 和 **车票**，然后点击**上车**按钮即可。
 
-![image.png](plus/plus-login1.png)
+![plus-login1.png](plus/plus-login1.png)
 
 通过验证之后，你就会进入这个跟官方无限接近的页面，畅享官方服务：
 
-![image.png](plus/plus-office.png)
+![plus-office.png](plus/plus-office.png)
 
 **用户名：由你自定义，既是账号，也是密码。**
 
@@ -75,7 +75,7 @@
 
 **车票**：就是你的一次性上车凭证，需要到[AI自强少年的小店](https://shop.wehugai.com/buy/11) 进行购买。购买前先查看商品详情，对号入座，别买错了。
 
-![image.png](plus/plus-shop.png)
+![plus-shop.png](plus/plus-shop.png)
 
 ::: tip 注意
 
@@ -93,7 +93,7 @@
 
 此时，你只需要填写 **用户名** ，然后点击**上车**按钮即可。（**不必填车票**）
 
-![image.png](plus/plus-user.png)
+![plus-user.png](plus/plus-user.png)
 
 填写用户名1秒后就能看到你的账号到期日。
 
@@ -165,32 +165,52 @@
 
 最后聊聊这个拼车服务是如何实现的。
 
-**这部分偏技术向，小白用户可以忽略。**
+**这部分偏技术向，还有回忆杀，非IT人士可以忽略。**
 
-首先，**最感谢的肯定是“始皇”**。
+半年前，我发布了供大家免费使用的[原味 GPT](/free/pandora.md)。
 
-他提供了Plus账号的逆向服务，并且还写了[一系列的帖子](https://linux.do/t/topic/47799)教大家如何使用。
+也是国内可以直接使用的 ChatGPT 官方镜像。没有账号的可以用我提供了免费的账号，或者直接在原味GPT上注册，再登录使用，而且也支持会话隔离，因此很受欢迎。
 
-![image.png](plus/issues.png)
+我特意记录了一下，巅峰的时候一天有过万的会话记录，也算造福了关注公号的朋友啦。
+
+![pandora-top.png](plus/pandora_top.jpeg)
+
+当然这个服务是逆向大佬 **我是始皇** 提供的，我只是接力一下。
+
+后来始皇放弃维护了，我也只能停服,👉[Pandora大佬退出，免费时代落幕](https://mp.weixin.qq.com/s/0DFNsemz5JnTHs6LCYo-3A)。
+
+最近，始皇复出了，值得举杯同庆！
+
+不过因为 OpenAI 的防黑能力也升级了，提供逆向服务的成本也变高了，始皇选择只提供 Plus 账号的直连服务。
+
+![only-plus.png](plus/only-plus.png)
+
+也就是说，**只有开通了 Plus 的账号才能使用始皇提供的服务**，这样人数没那么多，也不容易被 OpenAI 针对，细水长流，行稳致远。
+
+不仅如此，始皇还写了[一系列的帖子](https://linux.do/t/topic/47799)教大家如何使用。
+
+![issues.png](plus/issues.png)
+
+所以，**本服务首先基于始皇的逆向服务和这一系列喂饭级别的帖子**，感谢。
 
 其次，**要感谢linux.do论坛所有接力的坛友们。**
 
 我主要参考了这两个帖子的内容：
 
-第一个：[【优雅+安全】GPT4私人拼车神器——轻松实现聊天隔离+链接直达+全自动刷新token](https://linux.do/t/topic/59043)
+[【优雅+安全】GPT4私人拼车神器——轻松实现聊天隔离+链接直达+全自动刷新token](https://linux.do/t/topic/59043)
 
-![image.png](plus/whitelist-issues.png)
+![whitelist-issues.png](plus/whitelist-issues.png)
 
-第二个：[【优雅再+】GPT4私人拼车神器【UI版】——聊天隔离+站密码+自动刷新token](https://linux.do/t/topic/60166)
+[【优雅再+】GPT4私人拼车神器【UI版】——聊天隔离+站密码+自动刷新token](https://linux.do/t/topic/60166)
 
-![image.png](plus/ui-issues.png)
+![ui-issues.png](plus/ui-issues.png)
 
 第三个：**当然要感谢全能的GPT-4**，让只会抄代码的我能够接力为公号的朋友提供这个Plus拼车服务。
 
 最后，附上我迭代了5个版本的需求记录，让大家看看我是如何用GPT4完成这个拼车服务的👇。
 
-![image.png](plus/docs1.jpg)
-![image.png](plus/docs2.jpg)
+![docs1.png](plus/docs1.jpg)
+![docs2.png](plus/docs2.jpg)
 
 GPT-4很强，但并非万能，你需要给它足够的上下文来实现你的目标。
 
