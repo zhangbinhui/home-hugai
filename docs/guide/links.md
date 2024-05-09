@@ -14,6 +14,7 @@ footer: Copyright © 2024 Ai自强少年
 #### ChatGPT Plus 拼车服务
 
 - [秦 Plus](https://qinplus.hugai.top)
+- [汉 Plus](https://hanplus.hugai.top)
 
 #### 通过中转服务使用主流大模型
 
