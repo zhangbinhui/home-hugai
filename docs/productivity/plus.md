@@ -5,7 +5,7 @@
 
 👉第一辆10人拼车的访问地址 [秦 Plus](https://qinplus.hugai.top)。
 
-👉第二辆 6人拼车的访问地址 [汉 Plus](https://qinplus.hugai.top)。
+👉第二辆 6人拼车的访问地址 [汉 Plus](https://hanplus.hugai.top)。
 
 💡请在外部浏览器打开，微信屏蔽了本站域名。。。
 
