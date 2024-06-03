@@ -23,7 +23,7 @@ export default {
           children: [
             {
               text: '免费使用',
-              children: ['/free/lushuren.md','/free/pandora.md', '/free/simple.md'],
+              children: ['/free/station.md','/free/lushuren.md','/free/pandora.md', '/free/simple.md'],
             },
             {
               text: '生产力',
@@ -57,6 +57,7 @@ export default {
       {
         text: '免费使用',
         children: [
+          '/free/station.md',
           '/free/lushuren.md',
           '/free/pandora.md', 
           '/free/simple.md',],
