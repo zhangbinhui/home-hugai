@@ -7,8 +7,8 @@ footer: Copyright © 2024 Ai自强少年
 ## 🆓免费使用 
 #### 公众号回复gpt获取访问密码 及 上车车票
 
-- [鲁树人GPT](https://lushuren.hugai.top)
 - [ChatGPT 公益车站](https://station.hugai.top)
+- [鲁树人GPT](https://lushuren.hugai.top)
 
 ## ⚡生产力
 
