@@ -1,5 +1,5 @@
 
-# ChatGPT Plus 拼车[暂时停服]
+# ChatGPT Plus 拼车
 
 🎉欢迎使用 Ai自强少年 提供的 ChatGPT Plus 拼车服务，国内直连，会话隔离，简单优雅。
 

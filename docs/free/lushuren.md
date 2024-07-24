@@ -1,4 +1,8 @@
-# 鲁树人 GPT
+# 鲁树人 GPT [停服归档]
+
+:::warning 最新动态 2024-07-03
+鲁树人 GPT 已停服，原因：[地主家也没有余粮了，感谢和告别 鲁树人GPT](https://mp.weixin.qq.com/s/qqWlXDONXEmsmeARiXOwJg)
+:::
 
 🥳欢迎使用 Ai自强少年 提供的免费 GPT网页服务，本文介绍全新的 鲁树人GPT **V2.1**。
 
