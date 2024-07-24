@@ -42,6 +42,10 @@
 
 5. 页面上会根据用户名生成你的专属链接，可直接访问。
 
+6. 除了图文交互，点击OpenAI的logo还能打开语音功能实时聊天。
+
+![gpt-4o-mini.jpg](station/gpt-4o-mini.jpg)
+
 :::
 
 ### 1. 如果你是第一次上车
@@ -98,6 +102,17 @@ https://qin.hugai.top/?un=bilibili
 直接访问。
 
 泰裤啦！
+
+### 3. 一个隐藏的小功能
+
+除了图文交互之外，点击聊天窗口中OpenAI的logo，就能打开隐藏的实时语音聊天功能：
+
+![logo.jpg](station/logo.jpg)
+
+![voice.jpg](station/voice.jpg)
+
+但我不确定如果同时多人使用，我这个狭窄的带宽，是否能撑得住哈。。。
+
 
 ## 使用的注意事项
 
