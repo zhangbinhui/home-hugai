@@ -9,17 +9,17 @@ footer: Copyright © 2024 Ai自强少年
 
 - [ChatGPT 公益车站](https://station.hugai.top)
 
-## ⚡生产力 [暂时停服]
+## ⚡生产力
 
-#### ChatGPT Plus 拼车服务
+#### ChatGPT Plus 拼车服务 [暂时停服]
 
 - [秦 Plus](https://qinplus.hugai.top)
 - [汉 Plus](https://hanplus.hugai.top)
 
 #### 通过中转服务使用主流大模型
 
-- [OneAPI 中转服务](https://one-api.hugai.top)
-- [尊享GPT](https://nc.hugai.top)
+- [OneAPI 中转服务](https://one-api.aiporters.com)
+- [尊享GPT](https://next.aiporters.com)
 
 
 ## 👇中转额度购买

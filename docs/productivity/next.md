@@ -2,15 +2,15 @@
 
 🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT类网页服务：尊享 GPT。
 
-::: tip 最新动态 2024-04-17
-- 支持全系OpenAI模型：最新的多模态gpt-4-turbo，gpt-4-turbo-2024-04-09；
+::: tip 最新动态 2024-09-13
+- 支持全系OpenAI模型：多模态gpt-4o，gpt-4o-mini；而最新的 o1-preview 和 o1-mini 因为账号等级不够，暂不支持；
 - 支持画图的dalle，语音输入的tts 和 语音输出的whisper。
-- 支持Anthropic家的 claude-3系列模型；
+- 支持Anthropic家的 claude-3.5-sonnet 模型；
 :::
 
-👉访问方式：先访问[OneAPI 中转服务](https://one-api.hugai.top)，从令牌页面直接跳转进入内置好的 [尊享 GPT](https://nc.hugai.top)。
+👉访问方式：先访问[OneAPI 中转服务](https://one-api.aiporters.com/)，从令牌页面直接跳转进入内置好的 [尊享 GPT](https://next.aiporters.com/)。
 
-<iframe src="https://one-api.hugai.top/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
+<iframe src="https://one-api.aiporters.com/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
 
 🚦网络环境：各地网络环境不同，如无法访问则说明缘分未到，不必勉强。若是钢铁般的需求，可以公众号私信联系，我帮你想想办法。
 
@@ -107,13 +107,13 @@ pdf文档通常很大，解析pdf的内容需要不少时间，所以使用这�
 
 ### 太长不看版
 
-1.打开One API 中转服务地址：[https://one-api.hugai.top](https://one-api.hugai.top/)
+1.打开One API 中转服务地址：[https://one-api.aiporters.com/](https://one-api.aiporters.com/)
 
 2.注册账号->登录->新建令牌->聊天；
 
 再看下这个10秒的小视频，如何进入新的尊享GPT 聊天界面：
 
-<iframe src="https://one-api.hugai.top/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
+<iframe src="https://one-api.aiporters.com/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
 
 ### 详细的步骤看这里
 

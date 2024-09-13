@@ -1,12 +1,14 @@
 # One API 中转服务
 
-::: tip 最新动态 2024-04-15
+::: tip 最新动态 2024-09-13
 
-- 已支持OpenAI家的 **gpt-4-turbo, gpt-4-turbo-2024-04-09**；
+- OpenAI家最新的 o1-preview 和 o1-mini 模型因为我两个号的等级都还不够，暂不支持，但应该快了。。。
 
-- 已支持Anthropic家的 claude-3-opus-20240229, claude-3-sonnet-20240229, claude-3-haiku-20240307；
+- 已支持OpenAI家的 **gpt-4o, gpt-4o-mini**；
 
-- 之前大家在小店购买的ak-开头的key，还未用完的，可以将剩余的额度转入新的中转服务额度中，在公众号后台私信我或者加微信：niu_bilibili，麻烦各位尊贵的尊享GPT用户了。🙏🙏🙏
+- 已支持Anthropic家的claude-3.5-sonnet-20240620,claude-3-opus-20240229, claude-3-sonnet-20240229, claude-3-haiku-20240307；
+
+- 之前大家在小店购买的sk-开头的key，还未用完的，可以将剩余的额度转入新的中转服务额度中，在公众号后台私信我或者加微信：niu_bilibili，麻烦各位尊贵的尊享GPT用户了。🙏🙏🙏
 
 :::
 
@@ -14,12 +16,9 @@
 
 ⚠️ 本服务没有特色，稳定不折腾，旨在为网络或者支付困难的用户提供便利。折腾过就会确信：**时间就是金钱，稳定压倒一切**。
 
-🆓 如果你只是想体验一下，不追求稳定和速度，可以直接用我提供的👉[鲁树人 GPT](https://lushuren.hugai.top) ，免费使用gpt4，也可以画图，无需购买。
+💡 你可以先在[中转服务](https://one-api.aiporters.com/)注册一个账号，有 **$0.1** 的体验额度，进入 [控制台]->[令牌]->[新建令牌] 后就可以在内置的 👉[尊享 GPT](https://next.aiporters.com/) 中使用：
 
-
-💡 你可以先在[中转服务](https://one-api.hugai.top)注册一个账号，有 **$0.1** 的体验额度，进入 [控制台]->[令牌]->[新建令牌] 后就可以在内置的 👉[尊享 GPT](https://nc.hugai.top) 中使用：
-
-<iframe src="https://one-api.hugai.top/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
+<iframe src="https://one-api.aiporters.com//video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
 
 🚦 网络环境：各地连接速度不同，如无法访问说明缘分未到，不勉强；若是钢铁般的需求，请在微信公众号私信联系。
 
@@ -71,7 +70,7 @@
 
 ### 账号->令牌->额度
 
-1. 打开[oneapi中转服务: https://one-api.hugai.top/](https://one-api.hugai.top/)
+1. 打开[oneapi中转服务: https://one-api.aiporters.com/](https://one-api.aiporters.com/)
 
 2. 右上角找到登录按钮，进入注册页面，先注册一个账号；
 
@@ -121,27 +120,27 @@
 
 再看一遍这个10秒的视频吧：
 
-<iframe src="https://one-api.hugai.top/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
+<iframe src="https://one-api.aiporters.com/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
 
 ### 如果你是开发者
 
 请查阅 OpenAI 官方 API 文档：[platform.openai.com](https://platform.openai.com/docs/api-reference/completions/create)
 
-使用时将官方文档中所有的 `https://api.openai.com` 替换为本服务提供的中转地址：**`https://one-api.hugai.top`**
+使用时将官方文档中所有的 `https://api.openai.com` 替换为本服务提供的中转地址：**`https://one-api.aiporters.com`**
 
 接口用法与 OpenAI 官方 API 完全一致。
 
 在开始使用之前，你需要用到以下信息：
 
 ```Plain Text
-中转接口地址：https://one-api.hugai.top/openai
+中转接口地址：https://one-api.aiporters.com/openai
 中转 API 令牌：sk-xxxxxxxxx
 ```
 
 ##### [Create chat completion](https://platform.openai.com/docs/api-reference/chat/create)
 
 ```bash
-curl https://one-api.hugai.top/v1/chat/completions \
+curl https://one-api.aiporters.com/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer sk-你的令牌" \
   -d '{
@@ -165,7 +164,7 @@ curl https://one-api.hugai.top/v1/chat/completions \
 ##### [Create speech](https://platform.openai.com/docs/api-reference/audio/createSpeech)
 
 ```bash
-curl https://one-api.hugai.top/v1/audio/speech \
+curl https://one-api.aiporters.com/v1/audio/speech \
   -H "Authorization: Bearer sk-你的令牌" \
   -H "Content-Type: application/json" \
   -d '{
@@ -181,7 +180,7 @@ curl https://one-api.hugai.top/v1/audio/speech \
 ##### [Create transcription](https://platform.openai.com/docs/api-reference/audio/createTranscription)
 
 ```bash
-curl https://one-api.hugai.top/v1/audio/transcriptions \
+curl https://one-api.aiporters.com/v1/audio/transcriptions \
   -H "Authorization: Bearer sk-你的令牌" \
   -H "Content-Type: multipart/form-data" \
   -F file="@./speech.mp3" \
@@ -193,7 +192,7 @@ curl https://one-api.hugai.top/v1/audio/transcriptions \
 ##### [Create image](https://platform.openai.com/docs/api-reference/images/create)
 
 ```bash
-curl https://one-api.hugai.top/v1/images/generations \
+curl https://one-api.aiporters.com/v1/images/generations \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer sk-你的令牌" \
   -d '{
@@ -210,7 +209,7 @@ curl https://one-api.hugai.top/v1/images/generations \
 
 ##### 读图
 ```bash
-curl https://one-api.hugai.top/v1/chat/completions \
+curl https://one-api.aiporters.com/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer sk-你的令牌" \
   -d '{
@@ -244,7 +243,7 @@ curl https://one-api.hugai.top/v1/chat/completions \
 使用下方地址作为 API URL，API Key 使用 sk- 即可。
 
 ```Plain Text
-https://one-api.hugai.top/openai/v1/chat/completions
+https://one-api.aiporters.com/openai/v1/chat/completions
 ```
 
 ## 定价规则

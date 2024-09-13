@@ -63,7 +63,7 @@ export default {
           '/free/simple.md',],
       },
       {
-        text: '生产力 [暂时停服]',
+        text: '生产力',
         children: [
           '/productivity/plus.md',
           '/productivity/next.md', 
