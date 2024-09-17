@@ -18,7 +18,7 @@
 
 💡 你可以先在[中转服务](https://one-api.aiporters.com/)注册一个账号，有 **$0.1** 的体验额度，进入 [控制台]->[令牌]->[新建令牌] 后就可以在内置的 👉[尊享 GPT](https://next.aiporters.com/) 中使用：
 
-<iframe src="https://one-api.aiporters.com/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
+<iframe src="https://home.aiporters.com/videos/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
 
 🚦 网络环境：各地连接速度不同，如无法访问说明缘分未到，不勉强；若是钢铁般的需求，请在微信公众号私信联系。
 

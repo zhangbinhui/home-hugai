@@ -18,7 +18,7 @@ Claude 是由号称OpenAI孪生兄弟的Anthropic 推出的产品，其中 Claud
 
 为了照顾到小白朋友，我特意录制了一个视频，**从注册账号到登录使用**，3分多钟，看一遍就都明白啦：
 
-<iframe src="https://home.aiporters.com/video/claude.webm" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
+<iframe src="https://home.aiporters.com/videos/claude.webm" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
 
 下面这个是各个步骤的文字描述👇
 
