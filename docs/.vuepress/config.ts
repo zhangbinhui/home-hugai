@@ -23,11 +23,15 @@ export default {
           children: [
             {
               text: '免费使用',
-              children: ['/free/station.md','/free/lushuren.md','/free/pandora.md', '/free/simple.md'],
+              children: ['/free/station.md','/free/claude.md'],
             },
             {
               text: '生产力',
               children: ['/productivity/plus.md','/productivity/next.md','/productivity/one-api.md' ],
+            },
+            {
+              text: '停服归档',
+              children: ['/legacy/lushuren.md','/legacy/pandora.md', '/legacy/simple.md'],
             },
             {
               text: '小作文',
@@ -58,9 +62,8 @@ export default {
         text: '免费使用',
         children: [
           '/free/station.md',
-          '/free/lushuren.md',
-          '/free/pandora.md', 
-          '/free/simple.md',],
+          '/free/claude.md',
+        ],
       },
       {
         text: '生产力',
@@ -68,6 +71,14 @@ export default {
           '/productivity/plus.md',
           '/productivity/next.md', 
           '/productivity/one-api.md',],
+      },
+      {
+        text: '停服归档',
+        children: [
+          '/legacy/lushuren.md',
+          '/legacy/pandora.md', 
+          '/legacy/simple.md',  
+        ],
       },
       {
         text: '小作文',
