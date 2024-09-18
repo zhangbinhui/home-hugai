@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /images/qrcode.jpg
-heroImageDark: /images/qrcode.jpg
-heroText: 公众号：Ai自强少年
+heroImage: /images/qrcode.png
+heroImageDark: /images/qrcode.png
+heroText: 扫码关注：Ai自强少年
 tagline: 我们不生产大模型，我们只是Ai服务的搬运工
 
 actions:
