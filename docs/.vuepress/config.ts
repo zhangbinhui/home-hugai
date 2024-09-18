@@ -39,16 +39,24 @@ export default {
             }  
           ],
         },
-        // NavbarItem
-        {
-            text: '服务状态',
-            link: 'https://status.hugai.top',
-        },
 
         // NavbarItem
         {
-          text: 'OpenAI官方状态',
-          link: 'https://status.openai.com/',
+          text: '服务状态',
+          children: [
+            {
+              text: '本站服务状态',
+              link: 'https://status.hugai.top',
+            },
+            {
+              text: 'OpenAI 服务状态',
+              link: 'https://status.openai.com/',
+            },
+            {
+              text: 'Claude 服务状态',
+              link: 'https://status.anthropic.com/',
+            },
+          ],
         },
 
       ],
