@@ -246,6 +246,12 @@ curl https://one-api.aiporters.com/v1/chat/completions \
 https://one-api.aiporters.com/v1/chat/completions
 ```
 
+![translate1.png](oneapi/translate1.png)
+
+![translate2.png](oneapi/translate2.png)
+
+![translate3.png](oneapi/translate3.png)
+
 ## 定价规则
 
 ### 什么是 token？
