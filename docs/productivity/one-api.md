@@ -243,7 +243,7 @@ curl https://one-api.aiporters.com/v1/chat/completions \
 使用下方地址作为 API URL，API Key 使用 sk- 即可。
 
 ```Plain Text
-https://one-api.aiporters.com/openai/v1/chat/completions
+https://one-api.aiporters.com/v1/chat/completions
 ```
 
 ## 定价规则
