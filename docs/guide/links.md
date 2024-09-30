@@ -8,6 +8,7 @@ footer: Copyright © 2024 Ai自强少年
 #### 公众号回复gpt获取访问密码 及 上车车票
 
 - [ChatGPT 公益车站](https://station.hugai.top)
+- [Claude 公益站](https://claude.hugai.top)
 
 ## ⚡生产力
 
