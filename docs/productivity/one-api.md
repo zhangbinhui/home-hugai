@@ -109,7 +109,7 @@
 
 ![image.png](oneapi/before-chat.png)
 
-6. 如果额度用完了，进入**充值**页面，点击**获取兑换码**，进入[AI自强少年的小店](https://shop.wehugai.com), 购买对应额度的兑换码充值即可；
+6. 如果额度用完了，进入**充值**页面，点击**获取兑换码**，进入[AI自强少年的小店](https://store.wehugai.com), 购买对应额度的兑换码充值即可；
 
 ![image.png](oneapi/charge1.png)
 

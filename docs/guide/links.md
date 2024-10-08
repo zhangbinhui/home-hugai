@@ -25,4 +25,4 @@ footer: Copyright © 2024 Ai自强少年
 
 ## 👇中转额度购买
 
-- [Ai自强少年的小店](https://shop.wehugai.com)
+- [Ai自强少年的小店](https://store.wehugai.com)
