@@ -1,5 +1,5 @@
 
-# ChatGPT Plus 拼车
+# ChatGPT Plus 拼车服务
 
 ::: tip 最新动态 2024-10-08
 
