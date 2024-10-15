@@ -49,6 +49,10 @@ export default {
               link: 'https://status.hugai.top',
             },
             {
+              text: '更新日志',
+              link: '/changelog/update.md',
+            },
+            {
               text: 'OpenAI 服务状态',
               link: 'https://status.openai.com/',
             },
