@@ -128,9 +128,9 @@
 
 除了图文交互之外，点击聊天窗口中OpenAI的logo，就能打开隐藏的最新的高级实时语音聊天功能：
 
-![voice-entry.jpg](plus/voice-entry.jpg)
+![voice-entry.jpg](plus/voice-entry.png)
 
-![voice.jpg](plus/voice.jpg)
+![voice.jpg](plus/voice.png)
 
 但我不确定如果同时多人使用，我这个狭窄的带宽，是否能撑得住哈。。。
 
