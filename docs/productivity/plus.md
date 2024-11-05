@@ -1,15 +1,11 @@
 
 # ChatGPT Plus 拼车服务
 
-::: tip 最新动态 2024-10-13
+::: tip 最新动态 2024-10-23
 
-- 拼车站点上线，宋Plus上线；
+- 元Plus上线；
 
-- 已支持最新的交互功能： **ChatGPT 40 with canvas**；
-
-- 已支持OpenAI家最新模型： **o1-preview, o1-preview**；
-
-- 已支持OpenAI家最新的高级语音功能；
+- 已支持最新的交互功能： **聊天记录搜索，ChatGPT搜索**；
 
 :::
 
@@ -17,7 +13,7 @@
 
 👉拼车服务站点的访问地址 [ChatGPT Plus 拼车服务](https://station.aiporters.com/)。
 
-👉目前有两5人辆车：[汉 Plus](https://hanplus.aiporters.com/) [宋 Plus](https://songplus.aiporters.com/)
+👉在线车辆：[汉 Plus](https://hanplus.aiporters.com/) [宋 Plus](https://songplus.aiporters.com/) [元 Plus](https://yuanplus.aiporters.com/)
 
 💡请在外部浏览器打开，微信可能屏蔽了本站域名。。。
 

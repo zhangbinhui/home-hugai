@@ -19,6 +19,7 @@ footer: Copyright © 2024 Ai自强少年
 - [ChatGPT Plus拼车服务](https://station.aiporters.com)
     - [汉 Plus](https://hanplus.aiporters.com)
     - [宋 Plus](https://songplus.aiporters.com)
+    - [元 Plus](https://yuanplus.aiporters.com)
 
 #### 通过中转服务使用主流大模型
 
