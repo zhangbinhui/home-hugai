@@ -7,10 +7,13 @@ footer: Copyright © 2024 Ai自强少年
 ## 🆓免费使用 
 #### 公众号回复gpt获取访问密码 及 上车车票
 
-- [ChatGPT 公益车站](https://station.hugai.top)
-    - [周](https://zhou.hugai.top) [秦](https://qin.hugai.top) [汉](https://han.hugai.top) [隋](https://sui.hugai.top) [唐](https://tang.hugai.top) [宋](https://song.hugai.top) [元](https://yuan.hugai.top)
+- [Ai 公益车站](https://station.hugai.top)
 
-- [Claude 公益站](https://claude.hugai.top)
+    - ChatGPT 公益车
+        - [周](https://zhou.hugai.top) [秦](https://qin.hugai.top) [汉](https://han.hugai.top) [隋](https://sui.hugai.top) [唐](https://tang.hugai.top) [宋](https://song.hugai.top) [元](https://yuan.hugai.top)
+
+    - Claude 公益车
+        - [海豚](https://haitu.hugai.top) 
 
 ## ⚡生产力
 
