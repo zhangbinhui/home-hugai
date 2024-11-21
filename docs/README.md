@@ -19,7 +19,7 @@ features:
   - title: 生产力
     details: 稳定可靠的主流大模型 API中转服务，即买即用，不会过期。
   - title: 简单优雅
-    details: ChatGPT Plus拼车服务，国内直连，优雅上车。
+    details: ChatGPT Plus & Claude Pro 拼车服务，国内直连，优雅上车。
   - title: 持续优化
     details: 及时跟进业内动态，搬运最新最top的Ai服务。
 
