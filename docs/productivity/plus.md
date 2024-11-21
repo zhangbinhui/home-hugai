@@ -1,19 +1,19 @@
 
-# ChatGPT Plus 拼车服务
+# ChatGPT & Claude 拼车服务
 
-::: tip 最新动态 2024-10-23
+::: tip 最新动态 2024-11-21
 
-- 元Plus上线；
-
-- 已支持最新的交互功能： **聊天记录搜索，ChatGPT搜索**；
+- Claude Pro 拼车服务 海豚pro上线；
 
 :::
 
-🎉欢迎使用 Ai自强少年 提供的 ChatGPT Plus 拼车服务，国内直连，会话隔离，简单优雅。
+🎉欢迎使用 Ai自强少年 提供的 ChatGPT Plus  & Claude Pro 拼车服务，国内直连，会话隔离，简单优雅。
 
-👉拼车服务站点的访问地址 [ChatGPT Plus 拼车服务](https://station.aiporters.com/)。
+👉拼车服务站点的访问地址 [ChatGPT & Claude 拼车服务](https://station.aiporters.com/)。
 
-👉在线车辆：[汉 Plus](https://hanplus.aiporters.com/) [宋 Plus](https://songplus.aiporters.com/) [元 Plus](https://yuanplus.aiporters.com/)
+👉ChatGPT Plus 在线车辆：[汉 Plus](https://hanplus.aiporters.com/) [宋 Plus](https://songplus.aiporters.com/) [元 Plus](https://yuanplus.aiporters.com/)
+
+👉Claude Pro 在线车辆：[海豚 Pro](https://haitunpro.aiporters.com/)
 
 💡请在外部浏览器打开，微信可能屏蔽了本站域名。。。
 
@@ -21,15 +21,15 @@
 
 ## 这是什么？
 
-简单说就是国内可以直接访问的 Chatgpt Plus官方镜像。
+简单说就是国内可以直接访问的 Chatgpt Plus & Claude Pro 官方镜像。
 
-国内用户使用ChatGPT Plus 需要面对两个难题：
+国内用户使用ChatGPT Plus & Claude Pro 需要面对两个难题：
 
-  - 首先，订阅 Plus 是一门技术活，中国和香港地区发行的卡都不支持，OpenAI的风控也一直在升级，封卡封号的情况时有发生；
+  - 首先，订阅 Plus 是一门技术活，中国和香港地区发行的卡都不支持，OpenAI 和 Anthorpic 的风控也一直在升级，封卡封号的情况时有发生；
 
   - 其次，每个月支付 20 美元 对很多人来说还是有点压力的；
 
-因此，这个服务方便没账号或者无法订阅Plus的朋友们，以相对低的价格在国内直接使用官方的Chatgpt Plus服务。
+因此，这个服务方便没账号或者无法订阅Plus的朋友们，以相对低的价格在国内直接使用官方的Chatgpt Plus & Claude Pro 服务。
 
 **无需VPN，无需注册，按月付费，会话隔离，简单优雅。**
 
@@ -38,7 +38,7 @@
 
 ::: tip 太长不看版
 
-1. 打开[ChatGPT Plus 拼车站点](https://station.aiporters.com/)，你将看到这样一个页面：
+1. 打开[ChatGPT & Claude 拼车服务站点](https://station.aiporters.com/)，你将看到这样一个页面：
 
 ![plus-station.png](plus/plus-station.png)
 
@@ -136,23 +136,13 @@
 
 ![gpt4-limit.png](plus/gpt4-limit.png)
 
-**例如5人拼车，那么每个人享受的额度就是总额度的1/5.**
-
-但因为目前o1-preview 的额度实在太少，为了兼顾大家每一次的使用体验，**我把额度设置为以周为单位，每周更新一次**，具体看下面两个表格：
-
-这是一辆车一周的总额度：
-![gpt4-limit1.png](plus/gpt4-limit1.png)
-
-这是每位乘客一周的总额度：
-![gpt4-limit2.png](plus/gpt4-limit2.png)
-
-2. 可用性：这个服务可用，需要同时满足我提供的域名服务，“始皇”的逆向服务，OpenAI的官方服务 三者都正常才行。
+2. 可用性：这个服务可用，需要同时满足我提供的域名服务，“始皇”的逆向服务，ChatGPT 或 Claude 的官方服务 三者都正常才行。
 
 所以我贴心地在导航栏准备了一个[状态监控](https://status.hugai.top) 界面，如果出现持续性的报错，无响应，请先查看服务监控状态。
 
 ![status.png](plus/status.png)
 
-3. 在享受拼车服务的同时，请大家遵守OpenAI的内容政策，一旦收到OpenAI的警告邮件，对不爱惜车辆的乘客我将直接踢下车。所以，请不要做出会导致封号，影响到车辆正常运营，损害大家利益的事情，高抬贵手朋友们🤷。
+3. 在享受拼车服务的同时，请大家遵守OpenAI 及 Anthorpic 的内容政策，一旦收到OpenAI的警告邮件，对不爱惜车辆的乘客我将直接踢下车。所以，请不要做出会导致封号，影响到车辆正常运营，损害大家利益的事情，高抬贵手朋友们🤷。
 
 4. 建议接触并尝试使用 ChatGPT Plus，它是所有人的外挂。比如这个拼车服务的代码，我就是参考论坛各位大佬提供的代码后，用GPT4完成的。。。**毕竟没有人比我更懂如何抄代码**。
 
@@ -160,7 +150,7 @@
 
 一辆车的成本由以下几部分组成：
 
-#### 1. ChatGPT Plus的订阅费用：20美元/月
+#### 1. ChatGPT Plus 和 Claude Pro 的订阅费用：20美元/月
 
 目前1美元在7.2人民币左右波动。
 
@@ -198,7 +188,7 @@
 
 拼车依赖的服务还是蛮多的，有这么几种情况会翻车，比如：
 
-- 被OpenAI封号了；
+- 被OpenAI 或者 Anthorpic 封号了；
 - 始皇的逆向服务挂了；
 - 我的代理服务挂了；
 
