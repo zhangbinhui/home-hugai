@@ -13,7 +13,7 @@ footer: Copyright © 2024 Ai自强少年
         - [周](https://zhou.hugai.top) [秦](https://qin.hugai.top) [汉](https://han.hugai.top) [隋](https://sui.hugai.top) [唐](https://tang.hugai.top) [宋](https://song.hugai.top) [元](https://yuan.hugai.top)
 
     - Claude 公益车
-        - [海豚](https://haitu.hugai.top) 
+        - [海豚](https://haitun.hugai.top) 
 
 ## ⚡生产力
 
