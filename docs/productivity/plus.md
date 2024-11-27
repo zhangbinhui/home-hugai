@@ -1,19 +1,20 @@
 
-# ChatGPT & Claude 拼车服务
+# Ai 拼车服务
 
-::: tip 最新动态 2024-11-21
+::: tip 最新动态 2024-11-27
 
-- Claude Pro 拼车服务 海豚pro上线；
+- Claude Pro 拼车服务 **海豹Pro，海豚pro** 上线；
+- ChatGPT Plus 拼车服务 **汉Plus，宋Plus，元Plus** 停服下线；
 
 :::
 
 🎉欢迎使用 Ai自强少年 提供的 ChatGPT Plus  & Claude Pro 拼车服务，国内直连，会话隔离，简单优雅。
 
-👉拼车服务站点的访问地址 [ChatGPT & Claude 拼车服务](https://station.aiporters.com/)。
+👉拼车服务站点的访问地址 [Ai 拼车服务](https://station.aiporters.com/)。
 
-👉ChatGPT Plus 在线车辆：[汉 Plus](https://hanplus.aiporters.com/) [宋 Plus](https://songplus.aiporters.com/) [元 Plus](https://yuanplus.aiporters.com/)
+👉~~ChatGPT Plus 在线车辆~~ ：[汉 Plus](https://hanplus.aiporters.com/) [宋 Plus](https://songplus.aiporters.com/) [元 Plus](https://yuanplus.aiporters.com/)
 
-👉Claude Pro 在线车辆：[海豚 Pro](https://haitunpro.aiporters.com/)
+👉Claude Pro 在线车辆：[海豹 Pro](https://haibaopro.aiporters.com/) [海豚 Pro](https://haitunpro.aiporters.com/)
 
 💡请在外部浏览器打开，微信可能屏蔽了本站域名。。。
 
