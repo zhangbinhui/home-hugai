@@ -1,9 +1,9 @@
 
 # Ai 拼车服务
 
-::: tip 最新动态 2024-11-27
+::: tip 最新动态 2024-11-28
 
-- Claude Pro 拼车服务 **海豹Pro，海豚pro** 上线；
+- Claude Pro 拼车服务 **海豹Pro，海马Pro，海鸥Pro，海狮Pro，海豚pro** 上线；
 - ChatGPT Plus 拼车服务 **汉Plus，宋Plus，元Plus** 停服下线；
 
 :::
@@ -14,7 +14,7 @@
 
 👉~~ChatGPT Plus 在线车辆~~ ：[汉 Plus](https://hanplus.aiporters.com/) [宋 Plus](https://songplus.aiporters.com/) [元 Plus](https://yuanplus.aiporters.com/)
 
-👉Claude Pro 在线车辆：[海豹 Pro](https://haibaopro.aiporters.com/) [海豚 Pro](https://haitunpro.aiporters.com/)
+👉Claude Pro 在线车辆：[海豹 Pro](https://haibaopro.aiporters.com/) [海马 Pro](https://haimapro.aiporters.com/) [海鸥 Pro](https://haioupro.aiporters.com/) [海狮 Pro](https://haishipro.aiporters.com/) [海豚 Pro](https://haitunpro.aiporters.com/)
 
 💡请在外部浏览器打开，微信可能屏蔽了本站域名。。。
 
