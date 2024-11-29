@@ -2,8 +2,8 @@
 home: true
 heroImage: /images/qrcode.png
 heroImageDark: /images/qrcode.png
-heroText: 扫码关注：Ai自强少年
-tagline: 我们不生产大模型，我们只是Ai服务的搬运工
+heroText: 扫码关注：AI自强少年
+tagline: 我们不生产大模型，我们只是AI服务的搬运工
 
 actions:
   - text: 服务入口
@@ -21,9 +21,9 @@ features:
   - title: 简单优雅
     details: ChatGPT Plus & Claude Pro 拼车服务，国内直连，优雅上车。
   - title: 持续优化
-    details: 及时跟进业内动态，搬运最新最top的Ai服务。
+    details: 及时跟进业内动态，搬运最新最top的AI服务。
 
-footer: Copyright © 2024 Ai自强少年
+footer: Copyright © 2024 AI自强少年
 ---
 
 

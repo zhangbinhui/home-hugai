@@ -1,39 +1,32 @@
 ---
-footer: Copyright © 2024 Ai自强少年
+footer: Copyright © 2024 AI自强少年
 ---
 
 # 服务导航
 
 ## 🆓免费使用 
-#### 公众号回复gpt获取访问密码 及 上车车票
 
-- [Ai 公益车站](https://station.hugai.top)
+#### AI 公益车站
 
-    - **Claude 公益车**
-        - [海豹](https://haibao.hugai.top) [海马](https://haima.hugai.top) [海鸥](https://haiou.hugai.top) [海狮](https://haishi.hugai.top) [海豚](https://haitun.hugai.top) [海象](https://haixiang.hugai.top) 
+- 访问地址：[https://station.hugai.top](https://station.aiporters.com)
 
-    - **~~ChatGPT 公益车~~ (停服)**
-        - [周](https://zhou.hugai.top) [秦](https://qin.hugai.top) [汉](https://han.hugai.top) [隋](https://sui.hugai.top) [唐](https://tang.hugai.top) [宋](https://song.hugai.top) [元](https://yuan.hugai.top)
+- Claude 海洋车队
+    > [海豹](https://haibao.hugai.top) [海马](https://haima.hugai.top) [海鸥](https://haiou.hugai.top) 
 
+    > [海狮](https://haishi.hugai.top) [海豚](https://haitun.hugai.top) [海象](https://haixiang.hugai.top)
+     
+- 公众号回复 gpt 上车车票
 
 ## ⚡生产力
 
-#### ChatGPT Plus & Claude Pro 拼车服务
+#### AI 拼车服务
 
-- [Ai 拼车服务站点](https://station.aiporters.com)
+- 访问地址：[https://station.aiporters.com](https://station.aiporters.com)
 
-    - **Claude Pro 拼车**
-        - [海豹 Pro](https://haibaopro.aiporters.com/)
-        - [海马 Pro](https://haimapro.aiporters.com/)
-        - [海鸥 Pro](https://haioupro.aiporters.com/) 
-        - [海狮 Pro](https://haishipro.aiporters.com/)
-        - [海豚 Pro](https://haitunpro.aiporters.com/)
+- Claude Pro 海洋车队
+    > [海豹 Pro](https://haibaopro.aiporters.com/) [海马 Pro](https://haimapro.aiporters.com/) [海鸥 Pro](https://haioupro.aiporters.com/) 
 
-    - **~~ChatGPT Plus 拼车~~ (停服)**
-        - [汉 Plus](https://hanplus.aiporters.com)
-        - [宋 Plus](https://songplus.aiporters.com)
-        - [元 Plus](https://yuanplus.aiporters.com)
-    
+    >[海狮 Pro](https://haishipro.aiporters.com/) [海豚 Pro](https://haitunpro.aiporters.com/)
 
 
 #### 通过中转服务使用主流大模型
@@ -42,6 +35,6 @@ footer: Copyright © 2024 Ai自强少年
 - [尊享GPT](https://next.aiporters.com)
 
 
-## 👇中转额度购买
+## 👇中转额度及车票购买
 
-- [Ai自强少年的小店](https://store.wehugai.com)
+- [AI自强少年的小店](https://store.wehugai.com)

@@ -31,7 +31,7 @@ export default {
             },
             {
               text: '停服归档',
-              children: ['/legacy/lushuren.md','/legacy/pandora.md', '/legacy/simple.md'],
+              children: ['/legacy/station-old.md','/legacy/plus-old.md','/legacy/lushuren.md','/legacy/pandora.md', '/legacy/simple.md'],
             },
             {
               text: '小作文',
@@ -86,6 +86,8 @@ export default {
       {
         text: '停服归档',
         children: [
+          '/legacy/station-old.md',
+          '/legacy/plus-old.md',
           '/legacy/lushuren.md',
           '/legacy/pandora.md', 
           '/legacy/simple.md',  

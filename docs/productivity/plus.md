@@ -1,20 +1,17 @@
 
-# Ai 拼车服务
+# Claude Pro 拼车服务
 
 ::: tip 最新动态 2024-11-28
 
-- Claude Pro 拼车服务 **海豹Pro，海马Pro，海鸥Pro，海狮Pro，海豚pro** 上线；
-- ChatGPT Plus 拼车服务 **汉Plus，宋Plus，元Plus** 停服下线；
+- Claude Pro 海洋车队上线；
 
 :::
 
-🎉欢迎使用 Ai自强少年 提供的 ChatGPT Plus  & Claude Pro 拼车服务，国内直连，会话隔离，简单优雅。
+🎉欢迎使用 AI自强少年 提供的 Claude Pro 拼车服务，国内直连，会话隔离，简单优雅。
 
-👉拼车服务站点的访问地址 [Ai 拼车服务](https://station.aiporters.com/)。
+👉拼车服务的访问地址: [https://station.aiporters.com](https://station.aiporters.com/)。
 
-👉~~ChatGPT Plus 在线车辆~~ ：[汉 Plus](https://hanplus.aiporters.com/) [宋 Plus](https://songplus.aiporters.com/) [元 Plus](https://yuanplus.aiporters.com/)
-
-👉Claude Pro 在线车辆：[海豹 Pro](https://haibaopro.aiporters.com/) [海马 Pro](https://haimapro.aiporters.com/) [海鸥 Pro](https://haioupro.aiporters.com/) [海狮 Pro](https://haishipro.aiporters.com/) [海豚 Pro](https://haitunpro.aiporters.com/)
+👉Claude Pro 海洋车队：[海豹 Pro](https://haibaopro.aiporters.com/) [海马 Pro](https://haimapro.aiporters.com/) [海鸥 Pro](https://haioupro.aiporters.com/) [海狮 Pro](https://haishipro.aiporters.com/) [海豚 Pro](https://haitunpro.aiporters.com/)
 
 💡请在外部浏览器打开，微信可能屏蔽了本站域名。。。
 
@@ -22,30 +19,30 @@
 
 ## 这是什么？
 
-简单说就是国内可以直接访问的 Chatgpt Plus & Claude Pro 官方镜像。
+简单说就是国内可以直接访问的 Claude Pro 官方镜像。
 
-国内用户使用ChatGPT Plus & Claude Pro 需要面对两个难题：
+国内用户使用 Claude Pro 需要面对两个难题：
 
-  - 首先，订阅 Plus 是一门技术活，中国和香港地区发行的卡都不支持，OpenAI 和 Anthorpic 的风控也一直在升级，封卡封号的情况时有发生；
+  - 首先，订阅 Pro 是一门技术活，中国和香港地区发行的卡都不支持，Anthorpic 的风控也一直在升级，封卡封号的情况时有发生；
 
   - 其次，每个月支付 20 美元 对很多人来说还是有点压力的；
 
-因此，这个服务方便没账号或者无法订阅Plus的朋友们，以相对低的价格在国内直接使用官方的Chatgpt Plus & Claude Pro 服务。
+因此，这个服务方便没账号或者无法订阅Claude Pro的朋友们，以相对低的价格在国内直接使用官方的 Claude Pro 服务。
 
-**无需VPN，无需注册，按月付费，会话隔离，简单优雅。**
+**无需魔法，无需注册，按月付费，会话隔离，简单优雅。**
 
 
 ## 如何使用？
 
 ::: tip 太长不看版
 
-1. 打开[ChatGPT & Claude 拼车服务站点](https://station.aiporters.com/)，你将看到这样一个页面：
+1. 打开[Claude Pro 拼车服务](https://station.aiporters.com/)，你将看到这样一个页面：
 
 ![plus-station.png](plus/plus-station.png)
 
-2. 找一辆还没满员的乘客，这里我们以汉 Plus举例说明：
+2. 找一辆还没满员的乘客，这里我们以 海豹Pro 举例说明：
 
-打开[汉 Plus](https://hanplus.aiporters.com/)，你将看到这样一个页面：
+打开[海豹 Pro](https://haibaopro.aiporters.com/)，你将看到这样一个页面：
 
 ![plus-login.png](plus/plus-login.png)
 
@@ -82,20 +79,16 @@
 
 第一次登录后，车票就作废了，**后续直接输入用户名，点上车即可**；
 
-车票是一次性的，不会过期，但用完作废。
-
 :::
 
 
-**车票**：就是你的一次性上车凭证，需要到[AI自强少年的小店](https://store.wehugai.com/buy/5) 进行购买。购买前先查看商品详情，对号入座，别买错了。
+**车票**：就是你的一次性上车凭证，需要到[AI自强少年的小店](https://store.wehugai.com/buy/5) 进行购买。购买前先查看商品详情，对号入座，别买错了。车票是一次性的，不会过期，但用完作废。
 
 ![plus-shop.png](plus/plus-shop.png)
 
 ::: tip 注意
 
 购买车票前，先看当前车上是否满员，假如已经有5个人了，先别买，买了也上不了车，这也是为了保证车上乘客的用户体验。
-
-如果需求迫切，可以给我私信看最近是否有新车要开，或者就耐心等一等有乘客到期自动下车了，你再买票上车，已经买的车票不会过期，放心。
 
 :::
 
@@ -107,7 +100,7 @@
 
 此时，你只需要填写 **用户名** ，然后点击**上车**按钮即可。（**不必填车票**）
 
-![plus-user.png](plus/plus-user.png)
+![plus-user.png](plus/usual.png)
 
 填写用户名1秒后就能看到你的账号到期日。
 
@@ -117,55 +110,43 @@
 
 举例说明，你的用户名是hello2024，那么就可以通过页面上生成的专属链接👇：
 
-[https://hanplus.aiporters.com/?un=hello2024](https://hanplus.aiporters.com/?un=hello2024)
+`https://haibaopro.aiporters.com/?un=hello2024`
 
 直接访问，你买票，为她(他)生成专属链接，请她(他)上车，泰裤啦！
 
-### 3. 一个隐藏的小功能
-
-除了图文交互之外，点击聊天窗口中OpenAI的logo，就能打开隐藏的最新的高级实时语音聊天功能：
-
-![voice-entry.jpg](plus/voice-entry.png)
-
-![voice.jpg](plus/voice.png)
-
-但我不确定如果同时多人使用，我这个狭窄的带宽，是否能撑得住哈。。。
-
 ## 使用的注意事项
 
-1. 拼车的优点就是大家可以均摊成本，但缺点就是大家都高频使用容易触发限制。目前官方的使用限制，我整理了一份表格：
+1. 拼车的优点就是大家可以均摊成本，但缺点就是大家都高频使用容易触发限制。
 
-![gpt4-limit.png](plus/gpt4-limit.png)
+> Claude Pro是否有任何使用限制？
 
-2. 可用性：这个服务可用，需要同时满足我提供的域名服务，“始皇”的逆向服务，ChatGPT 或 Claude 的官方服务 三者都正常才行。
+> 是的。Claude Pro 提供的使用量至少是我们免费服务的5倍。您可以发送的消息数量会根据消息长度、附加文件的长度以及当前对话的长度而有所不同。如果您的对话相对较短，您**每5小时可以预期发送至少45条消息**，实际数量通常会更多，这取决于消息长度、对话长度和Claude当前的处理能力。当您只剩下1条消息时，我们会提供警告。您的消息限制将每5小时重置一次。
 
-所以我贴心地在导航栏准备了一个[状态监控](https://status.hugai.top) 界面，如果出现持续性的报错，无响应，请先查看服务监控状态。
 
-![status.png](plus/status.png)
 
-3. 在享受拼车服务的同时，请大家遵守OpenAI 及 Anthorpic 的内容政策，一旦收到OpenAI的警告邮件，对不爱惜车辆的乘客我将直接踢下车。所以，请不要做出会导致封号，影响到车辆正常运营，损害大家利益的事情，高抬贵手朋友们🤷。
+2. 可用性：这个服务可用，需要同时满足我提供的域名服务，“始皇”的逆向服务，Claude 的官方服务 三者都正常才行。
 
-4. 建议接触并尝试使用 ChatGPT Plus，它是所有人的外挂。比如这个拼车服务的代码，我就是参考论坛各位大佬提供的代码后，用GPT4完成的。。。**毕竟没有人比我更懂如何抄代码**。
+3. 在享受拼车服务的同时，请大家遵守 Anthorpic 的内容政策，一旦收到Anthorpic的警告邮件，对不爱惜车辆的乘客我将直接踢下车。所以，请不要做出会导致封号，影响到车辆正常运营，损害大家利益的事情，高抬贵手朋友们🤷。
 
 ## 关于车票的定价
 
 一辆车的成本由以下几部分组成：
 
-#### 1. ChatGPT Plus 和 Claude Pro 的订阅费用：20美元/月
+#### 1. Claude Pro 的订阅费用：20美元/月
 
 目前1美元在7.2人民币左右波动。
 
 但因为我没有国外发行的信用卡，只能通过虚拟卡来绑定支付。
 
-目前我在用的虚拟卡充值汇率约为7.56，每笔消费还需要支付5%的手续费。这部分在[One API中转服务](/productivity/one-api.md)的介绍中也提到过了。
+虚拟卡充值汇率会比实际汇率高，每笔消费还需要支付3%-5%的手续费。这部分在[One API中转服务](/productivity/one-api.md)的介绍中也提到过了。
 
-所以折算下来，我的实际汇率是 **1美元 ≈ 8人民币**😂。
+所以折算下来，我的实际汇率 **1美元 ≈ 8人民币** 😂。
 
-因此，**ChatGPT Plus的订阅费用约为：160元/月**。
+因此，**Claude Pro 的订阅费用约为：160元/月**。
 
-#### 2. 订阅一个新的Plus号，需要额外花5美元开一张新的虚拟卡
+#### 2. 订阅一个新的Claude Pro号，可能需要额外花5美元开一张新的虚拟卡
 
-保险起见，通常一张虚拟卡只能绑定一个Plus号，否则容易出现封号封卡的情况，得不偿失。
+保险起见，通常一张虚拟卡只绑一个Pro号，否则容易出现封号封卡的情况，得不偿失。
 
 当然很多时候碰到这种无法支付的情况，这个卡就废了：
 
@@ -177,21 +158,22 @@
 
 #### 3. 封号封卡成本
 
-这部分属于潜在的损失，但目前我订阅Plus也有一年了，没有翻车。我向来求稳不求便宜，可以暂不考虑这部分损失。
+这部分属于潜在的损失，而且通常封号我会给大家退钱，保证大家不亏，算我倒霉。
 
 综上，新开一辆车的固定支出：
 
-  - **第一个月的成本为200元，后续每个月为160元**
+  - **第一个月的成本约为200元，后续每个月为160元**
 
 而我们的车票基本上就是基于成本定价，以我不贴钱为基准，尽量让大家从容优雅上车。😄
 
 ## 退款情况说明
 
-拼车依赖的服务还是蛮多的，有这么几种情况会翻车，比如：
+拼车服务依赖的条件还是蛮多的，有这么几种情况会翻车，比如：
 
-- 被OpenAI 或者 Anthorpic 封号了；
+- 被 Anthorpic 封号了；
 - 始皇的逆向服务挂了；
-- 我的代理服务挂了；
+- 我的服务器被端了；
 
-如果能及时救回来的，请大家耐心等待；
+如果能及时救回来的，我会及时通知大家，请大家耐心等待；
+
 如果救不回来了，**我会按照大家的上车时长来退款，比如上车不超过7天的我就全额退了，请各位放心。**
