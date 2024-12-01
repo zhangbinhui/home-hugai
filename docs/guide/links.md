@@ -8,7 +8,7 @@ footer: Copyright © 2024 AI自强少年
 
 #### AI 公益车站
 
-- 访问地址：[https://station.hugai.top](https://station.aiporters.com)
+- 访问地址：[https://station.hugai.top](https://station.hugai.top)
 
 - Claude 海洋车队
     > [海豹](https://haibao.hugai.top) [海马](https://haima.hugai.top) [海鸥](https://haiou.hugai.top) 
