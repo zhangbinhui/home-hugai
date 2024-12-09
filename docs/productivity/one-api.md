@@ -1,14 +1,10 @@
 # One API 中转服务
 
-::: tip 最新动态 2024-09-13
+::: tip 最新动态 2024-12-04
 
-- OpenAI家最新的 o1-preview 和 o1-mini 模型因为我两个号的等级都还不够，暂不支持，但应该快了。。。
+- 已支持 OpenAI家最新的 o1-preview，o1-mini，gpt-4o-2024-11-20，gpt-4o-realtime-preview；
 
-- 已支持OpenAI家的 **gpt-4o, gpt-4o-mini**；
-
-- 已支持Anthropic家的claude-3.5-sonnet-20240620,claude-3-opus-20240229, claude-3-sonnet-20240229, claude-3-haiku-20240307；
-
-- 之前大家在小店购买的sk-开头的key，还未用完的，可以将剩余的额度转入新的中转服务额度中，在公众号后台私信我或者加微信：niu_bilibili，麻烦各位尊贵的尊享GPT用户了。🙏🙏🙏
+- 已支持 Anthropic家的claude-3.5-sonnet-20241022, claude-3.5-haiku-20241022；
 
 :::
 
@@ -18,7 +14,7 @@
 
 💡 你可以先在[中转服务](https://one-api.aiporters.com/)注册一个账号，有 **$0.1** 的体验额度，进入 [控制台]->[令牌]->[新建令牌] 后就可以在内置的 👉[尊享 GPT](https://next.aiporters.com/) 中使用：
 
-<iframe src="https://home.aiporters.com/videos/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
+<video src="https://wehugai.com/images/chat_entry.webm" controls width="800" height="450"></video>
 
 🚦 网络环境：各地连接速度不同，如无法访问说明缘分未到，不勉强；若是钢铁般的需求，请在微信公众号私信联系。
 
@@ -109,7 +105,7 @@
 
 ![image.png](oneapi/before-chat.png)
 
-6. 如果额度用完了，进入**充值**页面，点击**获取兑换码**，进入[AI自强少年的小店](https://store.wehugai.com), 购买对应额度的兑换码充值即可；
+6. 如果额度用完了，进入**充值**页面，点击**获取兑换码**，进入[AI自强少年的小店](https://smallshop.wehugai.com), 购买对应额度的兑换码充值即可；
 
 ![image.png](oneapi/charge1.png)
 

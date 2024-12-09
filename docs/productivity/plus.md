@@ -11,7 +11,7 @@
 
 👉拼车服务的访问地址: [https://station.aiporters.com](https://station.aiporters.com/)。
 
-👉Claude Pro 海洋车队：[海豹 Pro](https://haibaopro.aiporters.com/) [海马 Pro](https://haimapro.aiporters.com/) [海鸥 Pro](https://haioupro.aiporters.com/) [海狮 Pro](https://haishipro.aiporters.com/) [海豚 Pro](https://haitunpro.aiporters.com/)
+👉Claude Pro 海洋车队：[海王 Pro](https://haiwangpro.aiporters.com/) [海豹 Pro](https://haibaopro.aiporters.com/) [海马 Pro](https://haimapro.aiporters.com/) [海鸥 Pro](https://haioupro.aiporters.com/) [海狮 Pro](https://haishipro.aiporters.com/) [海豚 Pro](https://haitunpro.aiporters.com/)
 
 💡请在外部浏览器打开，微信可能屏蔽了本站域名。。。
 
@@ -82,7 +82,7 @@
 :::
 
 
-**车票**：就是你的一次性上车凭证，需要到[AI自强少年的小店](https://store.wehugai.com/buy/5) 进行购买。购买前先查看商品详情，对号入座，别买错了。车票是一次性的，不会过期，但用完作废。
+**车票**：就是你的一次性上车凭证，需要到[AI自强少年的小店](https://smallshop.wehugai.com/buy/5) 进行购买。购买前先查看商品详情，对号入座，别买错了。车票是一次性的，不会过期，但用完作废。
 
 ![plus-shop.png](plus/plus-shop.png)
 

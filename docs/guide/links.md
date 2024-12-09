@@ -11,6 +11,12 @@ footer: Copyright © 2024 AI自强少年
 - 访问地址：[https://station.hugai.top](https://station.hugai.top)
 
 - Claude 海洋车队
+    > [海滩](https://haitan.hugai.top) [海风](https://haifeng.hugai.top) 
+
+    > [海龟](https://haigui.hugai.top) [海带](https://haidai.hugai.top) [海苔](https://haitai.hugai.top) 
+
+    > [海螺](https://hailuo.hugai.top) [海星](https://haixing.hugai.top) [海胆](https://haidan.hugai.top) 
+
     > [海豹](https://haibao.hugai.top) [海马](https://haima.hugai.top) [海鸥](https://haiou.hugai.top) 
 
     > [海狮](https://haishi.hugai.top) [海豚](https://haitun.hugai.top) [海象](https://haixiang.hugai.top)
@@ -24,6 +30,8 @@ footer: Copyright © 2024 AI自强少年
 - 访问地址：[https://station.aiporters.com](https://station.aiporters.com)
 
 - Claude Pro 海洋车队
+    > [海王 Pro](https://haiwangpro.aiporters.com/)
+
     > [海豹 Pro](https://haibaopro.aiporters.com/) [海马 Pro](https://haimapro.aiporters.com/) [海鸥 Pro](https://haioupro.aiporters.com/) 
 
     >[海狮 Pro](https://haishipro.aiporters.com/) [海豚 Pro](https://haitunpro.aiporters.com/)
@@ -37,4 +45,4 @@ footer: Copyright © 2024 AI自强少年
 
 ## 👇中转额度及车票购买
 
-- [AI自强少年的小店](https://store.wehugai.com)
+- [AI自强少年的小店](https://smallshop.wehugai.com)
