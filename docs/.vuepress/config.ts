@@ -30,6 +30,12 @@ export default {
               children: ['/productivity/plus.md','/productivity/next.md','/productivity/one-api.md' ],
             },
             {
+              text: '小技巧',
+              children:[
+                '/tips/cloudflare-speed.md'
+              ]
+            },
+            {
               text: '停服归档',
               children: ['/legacy/station-old.md','/legacy/plus-old.md','/legacy/lushuren.md','/legacy/pandora.md', '/legacy/simple.md'],
             },
@@ -82,6 +88,12 @@ export default {
           '/productivity/plus.md',
           '/productivity/next.md', 
           '/productivity/one-api.md',],
+      },
+      {
+        text: '小技巧',
+        children:[
+          '/tips/cloudflare-speed.md'
+        ]
       },
       {
         text: '停服归档',
