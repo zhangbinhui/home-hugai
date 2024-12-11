@@ -1,25 +1,25 @@
 # 尊享 GPT
 
-🎉欢迎使用 Ai自强少年 提供的生产力 ChatGPT类网页服务：尊享 GPT。
+🎉欢迎使用 AI自强少年 提供的生产力 ChatGPT类网页服务：尊享 GPT。
 
-::: tip 最新动态 2024-09-13
-- 支持全系OpenAI模型：多模态gpt-4o，gpt-4o-mini；而最新的 o1-preview 和 o1-mini 因为账号等级不够，暂不支持；
-- 支持画图的dalle，语音输入的tts 和 语音输出的whisper。
-- 支持Anthropic家的 claude-3.5-sonnet 模型；
+::: tip 最新动态 2024-12-05
+- 支持RAG文件上传功能
+- 支持OpenAI最新的：o1-preview 和 o1-mini；
+- 支持Anthropic最新的：claude-3.5-sonnet-20241022, claude-3.5-haiku-20241022；
 :::
 
-👉访问方式：先访问[OneAPI 中转服务](https://one-api.aiporters.com/)，从令牌页面直接跳转进入内置好的 [尊享 GPT](https://next.aiporters.com/)。
+👉访问方式：先打开[OneAPI 中转服务](https://one-api.aiporters.com/)，从侧边栏的 **聊天** 找到 [尊享 GPT](https://next.aiporters.com/)，点击进入即可。
 
-<iframe src="https://one-api.aiporters.com/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
+<video src="https://wehugai.com/images/chat_entry.webm" controls width="800" height="450"></video>
 
-🚦网络环境：各地网络环境不同，如无法访问则说明缘分未到，不必勉强。若是钢铁般的需求，可以公众号私信联系，我帮你想想办法。
+🚦网络环境：请在外部浏览器打开链接，微信可能屏蔽了本站域名。如果响应速度慢或者打不开，请参考 [当你无法访问本站服务](/tips/cloudflare-speed.md);
 
 
 ## 尊享GPT有什么能力？
 
 ### 1.支持全系OpenAI模型
 
-包括最新的多模态gpt-4-turbo，画图的dalle，语音输入的tts 和 语音输出的whisper。
+包括最新的多模态gpt-4o，画图的dalle，语音输入的tts 和 语音输出的whisper。
 
 ![image.png](next/image2.png)
 
@@ -82,10 +82,29 @@ pdf文档通常很大，解析pdf的内容需要不少时间，所以使用这�
 
 ![插件组合使用.png](next/插件组合使用.png)
 
+### 3.支持RAG文件上传功能
 
-### 3. 支持Claude-3系列模型
+RAG(Retrieval Augmented Generation) 检索增强生成是一种赋予生成式人工智能模型信息检索能力的技术。它通过修改与大型语言模型（LLM）的交互，使该模型在响应用户查询时参考指定的文档集，并利用这些信息来增强从自身庞大的静态训练数据中提取的信息。
 
-![image.png](next/image7.png)
+最常见的应用，就是上传文档，然后大模型就可以检索你本地上传的文档内容了，基于文档来回答你的问题。
+
+放个效果图：
+
+![image.png](next/RAG.jpg)
+
+目前支持的文件类型：
+- txt
+- md
+- pdf
+- docx
+- csv
+- json
+- srt
+- mp3 (基于OpenAIWhisper)
+
+支持的最大文件大小：10M
+
+因为我申请的免费数据库最多只能存500M啦，试试水先。。。
 
 #### 为什么要接入Anthropic家的 claude-3系列？
 
@@ -109,15 +128,13 @@ pdf文档通常很大，解析pdf的内容需要不少时间，所以使用这�
 
 1.打开One API 中转服务地址：[https://one-api.aiporters.com/](https://one-api.aiporters.com/)
 
-2.注册账号->登录->新建令牌->聊天；
+2.注册账号后，登录系统，进入总览页面，新用户有 $0.1 的体验额度。
 
-再看下这个10秒的小视频，如何进入新的尊享GPT 聊天界面：
+3. 选择一条令牌，点击聊天，跳转至尊享GPT聊天面板。或者，直接在左边的侧边栏，找到聊天菜单，点击尊享GPT 也OK。 👇
 
-<iframe src="https://one-api.aiporters.com/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
+<video src="https://wehugai.com/images/chat_entry.webm" controls width="800" height="450"></video>
 
-### 详细的步骤看这里
 
-👉[如何在OneAPI中转服务中使用尊享GPT](/productivity/one-api.md#如何使用)
 
 ## 什么是插件？
 

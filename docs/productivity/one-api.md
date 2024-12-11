@@ -10,13 +10,11 @@
 
 ❇️ 欢迎使用 Ai自强少年 提供的One API中转服务，当前支持 **OpenAI** 和**Anthropic** 的官方接口，后续考虑接入更多主流大模型。
 
-⚠️ 本服务没有特色，稳定不折腾，旨在为网络或者支付困难的用户提供便利。折腾过就会确信：**时间就是金钱，稳定压倒一切**。
+🔔 本服务只是官转，没有特色，稳定不折腾，没有逆向的chat2api，旨在为网络或者支付困难的用户提供便利。折腾过就会确信：**时间就是金钱，稳定压倒一切**。
 
-💡 你可以先在[中转服务](https://one-api.aiporters.com/)注册一个账号，有 **$0.1** 的体验额度，进入 [控制台]->[令牌]->[新建令牌] 后就可以在内置的 👉[尊享 GPT](https://next.aiporters.com/) 中使用：
+💡 你可以先在 [中转服务](https://one-api.aiporters.com/) 注册一个账号，有 **$0.1** 的体验额度，[令牌]->[添加令牌] 后就可以在内置的 [尊享 GPT](https://next.aiporters.com/) 中使用；
 
-<video src="https://wehugai.com/images/chat_entry.webm" controls width="800" height="450"></video>
-
-🚦 网络环境：各地连接速度不同，如无法访问说明缘分未到，不勉强；若是钢铁般的需求，请在微信公众号私信联系。
+🚦网络环境：请在外部浏览器打开链接，微信可能屏蔽了本站域名。如果响应速度慢或者打不开，请参考 [当你无法访问本站服务](/tips/cloudflare-speed.md);
 
 ## 这是什么？
 
@@ -48,13 +46,7 @@
 
 ## 目前支持哪些模型？
 
-### OpenAI 
-
 ![image.png](oneapi/oai-models.png)
-
-### Anthropic Claude
-
-![image.png](oneapi/Anthropic-models.png)
 
 ## 后续还会支持哪些模型？
 
@@ -66,20 +58,11 @@
 
 ### 账号->令牌->额度
 
-1. 打开[oneapi中转服务: https://one-api.aiporters.com/](https://one-api.aiporters.com/)
+1. 打开[oneapi中转服务](https://one-api.aiporters.com/)
 
-2. 右上角找到登录按钮，进入注册页面，先注册一个账号；
+2. 注册账号后，登录系统，进入总览页面，新用户有 $0.1 的体验额度。
 
-![image.png](oneapi/login.png)
-
-![image.png](oneapi/register.png)
-
-
-3. 注册成功后，登录系统，进入**总览**页面，可以看到 $0.1 的体验额度；
-
-![image.png](oneapi/overview.png)
-
-4. 进入**令牌**页面->**新建令牌**->设置名称及是否限制令牌额度
+4. 进入**令牌**页面->**添加令牌**->设置名称及是否限制令牌额度
 
 ![image.png](oneapi/create-key1.png)
 
@@ -105,18 +88,9 @@
 
 ![image.png](oneapi/before-chat.png)
 
-6. 如果额度用完了，进入**充值**页面，点击**获取兑换码**，进入[AI自强少年的小店](https://smallshop.wehugai.com), 购买对应额度的兑换码充值即可；
+6. 如果额度用完了，进入**钱包**页面，用支付宝或者微信进行在线充值即可；
 
 ![image.png](oneapi/charge1.png)
-
-![image.png](oneapi/charge2.png)
-
-
-### 在内置的 尊享 GPT 中使用
-
-再看一遍这个10秒的视频吧：
-
-<iframe src="https://one-api.aiporters.com/video/chat_entry.mp4" allow="fullscreen" allowfullscreen="" width="800" height="450" style="border:0"></iframe>
 
 ### 如果你是开发者
 
@@ -129,7 +103,7 @@
 在开始使用之前，你需要用到以下信息：
 
 ```Plain Text
-中转接口地址：https://one-api.aiporters.com/openai
+中转接口地址：https://one-api.aiporters.com
 中转 API 令牌：sk-xxxxxxxxx
 ```
 
