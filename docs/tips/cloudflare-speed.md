@@ -1,4 +1,4 @@
-# 当你无法访问本站服务
+# 如果你想提升本站的访问速度
 
 ## 写本文的目的
 
@@ -30,10 +30,20 @@
 
 ![cmd-ready.png](./cloudflare-speed/cmd-ready.png)
 
-3. 在命令行里敲入命令：```CloudflareST.exe -f ip-1.1.1.1.txt ```，敲回车，你将得到一些IP地址：
+3. 在命令行里敲入命令：```CloudflareST.exe```，敲回车，你将得到一些IP地址，这些都是Cloudflare对外公布的CDN节点IP：
+
+![cmd-result-orign.png](./cloudflare-speed/cmd-result-orign.png)
+
+::: warning
+执行之前，记得关掉VPN
+:::
+
+然后，我们可以再执行一次命令：```CloudflareST.exe -f ip-1.1.1.1.txt ```，这次带上我们给定的ip地址列表，在这里面挑优质IP：
+
 ![cmd-result.png](./cloudflare-speed/cmd-result.png)
 
-4. **把这些ip地址复制出来，或者截图私信发给我就行。**
+
+4. **把这些ip地址都复制出来，或者截图私信发给我就行。**
 
 5. 对了，还要告知你目前所在的省份，以及使用的网络运营商是电信，联通还是移动。如果不清楚的，打开[百度](https://www.baidu.com)，搜索框输入ip，百度一下就能看到了：
 
