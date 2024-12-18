@@ -3,8 +3,6 @@ title: 友情链接
 sidebar: auto
 ---
 
-# 友情链接
-
 <script setup>
 import { h } from 'vue'
 
@@ -12,7 +10,10 @@ const friends = [
   {
     name: 'LINUX DO',
     desc: '新的理想型社区',
-    logo: 'https://linux.do/uploads/default/original/3X/9/d/9dd49731091ce8656e94433a26a3ef36062b3994.png',
+    logo: {
+      light: 'https://linux.do/uploads/default/original/3X/b/4/b4fa45d8b03df61f5d011e173c0adf8497028b16.png',
+      dark: 'https://linux.do/uploads/default/original/3X/a/8/a8168bb80c93075aad7aa1f598eee063adef1cb0.png'
+    },
     link: 'https://linux.do/?source=home_aiporters_com'
   }
   // 可以继续添加其他友链
@@ -22,7 +23,8 @@ const friends = [
 <div class="friends-wrapper">
   <div v-for="f in friends" :key="f.link" class="friend-item">
     <a :href="f.link" target="_blank" rel="noopener noreferrer">
-      <img :src="f.logo" :alt="f.name" class="friend-logo">
+      <img :src="f.logo.light" :alt="f.name" class="friend-logo light-logo">
+      <img :src="f.logo.dark" :alt="f.name" class="friend-logo dark-logo">
       <div class="friend-info">
         <h3>{{ f.name }}</h3>
         <p>{{ f.desc }}</p>
@@ -51,9 +53,23 @@ const friends = [
 }
 
 .friend-logo {
-  width: 60px;
+  width: 200px;  /* 调整为长形 LOGO 的合适宽度 */
   height: 60px;
   object-fit: contain;
+}
+
+/* 默认显示亮色模式的 LOGO */
+.dark-logo {
+  display: none;
+}
+
+/* 暗色模式下的样式 */
+html[data-theme="dark"] .light-logo {
+  display: none;
+}
+
+html[data-theme="dark"] .dark-logo {
+  display: block;
 }
 
 .friend-info {
