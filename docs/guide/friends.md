@@ -11,79 +11,161 @@ const friends = [
     name: 'LINUX DO',
     desc: '新的理想型社区',
     logo: {
-      light: 'https://linux.do/uploads/default/original/3X/b/4/b4fa45d8b03df61f5d011e173c0adf8497028b16.png',
-      dark: 'https://linux.do/uploads/default/original/3X/a/8/a8168bb80c93075aad7aa1f598eee063adef1cb0.png'
+      light: '/images/linux.do-light.png',
+      dark: '/images/linux.do-dark.png'
     },
     link: 'https://linux.do/?source=home_aiporters_com'
   }
-  // 可以继续添加其他友链
 ]
 </script>
 
-<div class="friends-wrapper">
+<div class="friend-links">
   <div v-for="f in friends" :key="f.link" class="friend-item">
     <a :href="f.link" target="_blank" rel="noopener noreferrer">
-      <img :src="f.logo.light" :alt="f.name" class="friend-logo light-logo">
-      <img :src="f.logo.dark" :alt="f.name" class="friend-logo dark-logo">
-      <div class="friend-info">
-        <h3>{{ f.name }}</h3>
-        <p>{{ f.desc }}</p>
+      <div class="friend-content">
+        <div class="friend-logo-wrapper">
+          <img :src="f.logo.light" :alt="f.name" class="friend-logo light-logo">
+          <img :src="f.logo.dark" :alt="f.name" class="friend-logo dark-logo">
+        </div>
+        <div class="friend-text">
+          <div class="friend-title">{{ f.name }}</div>
+          <div class="friend-subtitle">{{ f.desc }}</div>
+        </div>
       </div>
     </a>
   </div>
 </div>
 
 <style>
-.friends-wrapper {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1rem;
-  padding: 1rem;
+.friend-links {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
 }
 
 .friend-item {
+  margin: 0.8rem 0;
   border: 1px solid var(--c-border);
-  border-radius: 8px;
-  padding: 1rem;
-  transition: all 0.3s;
+  border-radius: 6px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  background-color: var(--c-bg);
 }
 
 .friend-item:hover {
-  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  border-color: var(--c-brand);
+}
+
+.friend-content {
+  display: flex;
+  align-items: center;
+  padding: 0.8rem;
+  gap: 0.8rem;
+}
+
+/* 固定左侧logo区域的高度 */
+.friend-logo-wrapper {
+  flex-shrink: 0;
+  width: 120px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--c-bg-lighter);
+  border-radius: 4px;
+  padding: 0.4rem 0.5rem;
 }
 
 .friend-logo {
-  width: 200px;  /* 调整为长形 LOGO 的合适宽度 */
-  height: 60px;
   object-fit: contain;
+  max-height: 100%;
+  max-width: 100%;
+  transition: transform 0.3s ease;
 }
 
-/* 默认显示亮色模式的 LOGO */
+.friend-item:hover .friend-logo {
+  transform: scale(1.05);
+}
+
 .dark-logo {
   display: none;
 }
 
-/* 暗色模式下的样式 */
-html[data-theme="dark"] .light-logo {
+html.dark .light-logo {
   display: none;
 }
 
-html[data-theme="dark"] .dark-logo {
+html.dark .dark-logo {
   display: block;
 }
 
-.friend-info {
-  margin-top: 0.5rem;
+/* 右侧文本区域的样式 */
+.friend-text {
+  flex-grow: 1;
+  min-width: 0;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
 }
 
-.friend-info h3 {
-  margin: 0;
-  font-size: 1.2rem;
+.friend-title {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--c-text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
-.friend-info p {
-  margin: 0.5rem 0 0;
+.friend-subtitle {
   font-size: 0.9rem;
   color: var(--c-text-lighter);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* 链接样式 */
+.friend-item a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  outline: none;
+}
+
+.friend-item a:focus {
+  outline: 2px solid var(--c-brand);
+  outline-offset: 2px;
+}
+
+/* 移动端适配 */
+@media (max-width: 719px) {
+  .friend-content {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.8rem;
+    padding: 0.6rem;
+    align-items: center;
+    height: auto;
+  }
+
+  .friend-logo-wrapper {
+    width: 100px;
+    height: 40px;
+  }
+
+  .friend-text {
+    height: auto;
+    gap: 4px;
+    align-items: center;
+  }
+
+  .friend-title,
+  .friend-subtitle {
+    text-align: center;
+  }
 }
 </style>
