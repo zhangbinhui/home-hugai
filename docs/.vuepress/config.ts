@@ -15,7 +15,7 @@ export default {
         // NavbarItem
         {
           text: '服务入口',
-          link: '/guide/links',
+          link: '/guide/links.md',
         },  
       // NavbarGroup
         {
@@ -46,7 +46,7 @@ export default {
           ],
         },
 
-        // NavbarItem
+        // NavbarGroup
         {
           text: '服务状态',
           children: [
@@ -68,6 +68,11 @@ export default {
             },
           ],
         },
+
+        {
+          text: '友情链接',
+          link: '/guide/friends.md'
+        }
 
       ],
     
@@ -110,6 +115,10 @@ export default {
         children: [
           '/essay/Pandora-quit.md', 
           ],
+      },
+      {
+        text: '友情链接',
+        link: '/guide/friends.md'
       },
     ],
     
