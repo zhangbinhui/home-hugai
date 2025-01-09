@@ -1,9 +1,9 @@
 
 # Claude Pro 拼车
 
-::: tip 最新动态 2024-11-28
+::: tip 最新动态 2025-01-01
 
-- Claude Pro 海洋车队上线；
+- Claude Pro 拼车订阅功能上线；
 
 :::
 
@@ -13,7 +13,7 @@
 
 👉Claude Pro 海洋车队：[海王 Pro](https://haiwangpro.aiporters.com/) [海豹 Pro](https://haibaopro.aiporters.com/) [海马 Pro](https://haimapro.aiporters.com/) 等等。。。
 
-🔔车站不定期发新车，保持关注即可，或者后台私信联系。
+🔔车站不定期发新车，想及时上车在车站首页订阅即可，或者后台私信联系。
 
 🚦网络环境：请在外部浏览器打开链接，微信可能屏蔽了本站域名。如果响应速度慢或者打不开，请参考 [当你无法访问本站服务](/tips/cloudflare-speed.md);
 

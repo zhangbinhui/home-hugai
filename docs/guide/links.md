@@ -4,7 +4,7 @@ footer: Copyright © 2024 AI自强少年
 
 # 服务导航
 
-## 🆓免费使用 
+## 🎁免费使用 
 
 #### AI 公益车站
 
@@ -31,9 +31,6 @@ footer: Copyright © 2024 AI自强少年
 
 - [OneAPI 中转服务](https://one-api.aiporters.com)
 
-- [尊享GPT](https://next.aiporters.com)
+## 👇车票购买
 
-
-## 👇中转额度及车票购买
-
-- [AI自强少年的小店](https://smallshop.wehugai.com)
+- [AI搬运工的小店](https://smallshop.wehugai.com)

@@ -27,7 +27,7 @@ export default {
             },
             {
               text: '生产力',
-              children: ['/productivity/plus.md','/productivity/next.md','/productivity/one-api.md' ],
+              children: ['/productivity/plus.md','/productivity/one-api.md','/productivity/next.md', ],
             },
             {
               text: '小技巧',
@@ -51,12 +51,12 @@ export default {
           text: '服务状态',
           children: [
             {
-              text: '本站服务状态',
-              link: 'https://status.hugai.top',
-            },
-            {
               text: '更新日志',
               link: '/changelog/update.md',
+            },
+            {
+              text: '本站服务状态',
+              link: 'https://status.hugai.top',
             },
             {
               text: 'OpenAI 服务状态',
@@ -91,8 +91,9 @@ export default {
         text: '生产力',
         children: [
           '/productivity/plus.md',
-          '/productivity/next.md', 
-          '/productivity/one-api.md',],
+          '/productivity/one-api.md',
+          '/productivity/next.md',
+        ],
       },
       {
         text: '小技巧',

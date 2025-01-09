@@ -81,11 +81,7 @@ const friends = [
   object-fit: contain;
   max-height: 100%;
   max-width: 100%;
-  transition: transform 0.3s ease;
-}
-
-.friend-item:hover .friend-logo {
-  transform: scale(1.05);
+  pointer-events: none;  /* 添加这行来禁用图片的鼠标事件 */
 }
 
 .dark-logo {
@@ -126,19 +122,6 @@ html.dark .dark-logo {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-}
-
-/* 链接样式 */
-.friend-item a {
-  text-decoration: none;
-  color: inherit;
-  display: block;
-  outline: none;
-}
-
-.friend-item a:focus {
-  outline: 2px solid var(--c-brand);
-  outline-offset: 2px;
 }
 
 /* 移动端适配 */

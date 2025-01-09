@@ -1,6 +1,6 @@
-# 尊享 GPT
+# LangChain NextChat
 
-🎉欢迎使用 AI自强少年 提供的生产力 ChatGPT类网页服务：尊享 GPT。
+🎉欢迎使用 AI自强少年 提供的生产力 ChatGPT类网页服务：LangChain NextChat。
 
 ::: tip 最新动态 2024-12-05
 - 支持RAG文件上传功能
@@ -8,14 +8,14 @@
 - 支持Anthropic最新的：claude-3.5-sonnet-20241022, claude-3.5-haiku-20241022；
 :::
 
-👉访问方式：先打开[OneAPI 中转服务](https://one-api.aiporters.com/)，从侧边栏的 **聊天** 找到 [尊享 GPT](https://next.aiporters.com/)，点击进入即可。
+👉访问方式：先打开[OneAPI 中转服务](https://one-api.aiporters.com/)，从侧边栏的 **聊天** 找到 [LangChain NextChat](https://next.aiporters.com/)，点击进入即可。
 
-<video src="https://wehugai.com/images/chat_entry.webm" controls width="800" height="450"></video>
+<video src="https://wehugai.com/images/chat_entry_demo.webm" controls width="800" height="450"></video>
 
 🚦网络环境：请在外部浏览器打开链接，微信可能屏蔽了本站域名。如果响应速度慢或者打不开，请参考 [当你无法访问本站服务](/tips/cloudflare-speed.md);
 
 
-## 尊享GPT有什么能力？
+## LangChain NextChat有什么能力？
 
 ### 1.支持全系OpenAI模型
 
@@ -130,7 +130,7 @@ RAG(Retrieval Augmented Generation) 检索增强生成是一种赋予生成式�
 
 2.注册账号后，登录系统，进入总览页面，新用户有 $0.1 的体验额度。
 
-3. 选择一条令牌，点击聊天，跳转至尊享GPT聊天面板。或者，直接在左边的侧边栏，找到聊天菜单，点击尊享GPT 也OK。 👇
+3. 选择一条令牌，点击聊天，跳转至LangChain NextChat聊天面板。或者，直接在左边的侧边栏，找到聊天菜单，点击LangChain NextChat 也OK。 👇
 
 <video src="https://wehugai.com/images/chat_entry.webm" controls width="800" height="450"></video>
 
@@ -189,8 +189,6 @@ RAG(Retrieval Augmented Generation) 检索增强生成是一种赋予生成式�
 
 这个服务的可用，同时满足我提供的客户端服务，One API中转服务，官方的OpenAI API 服务 都正常才行,目前看还是很稳的。
 
-所以我贴心地在 导航栏 准备了一个[状态监控](https://status.hugai.top) 界面，如果出现持续性的网络波动，无响应，请先查看服务监控状态（不含插件服务）。
-
-![nav-bar.png](next/nav-bar.png)
+所以我贴心地在 one-api 的关于菜单 准备了一个[状态监控](https://one-api.aiporters.com/about) 界面，如果出现持续性的网络波动，无响应，请先查看服务监控状态（不含插件服务）。
 
 ![status.png](next/status.png)

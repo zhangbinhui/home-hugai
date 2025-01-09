@@ -1,18 +1,33 @@
 # One API 中转
 
-::: tip 最新动态 2024-12-04
+::: tip 🎉 最新动态 2024-12-26
 
-- 已支持 OpenAI家最新的 o1-preview，o1-mini，gpt-4o-2024-11-20，gpt-4o-realtime-preview；
+  ☑️ 已支持Google的<span class="highlight"> gemini-2.0-flash-thinking-exp</span>
 
-- 已支持 Anthropic家的claude-3.5-sonnet-20241022, claude-3.5-haiku-20241022；
+  ☑️ 已支持OpenAI的 o1-preview，o1-mini
+
+  ☑️ 已支持Anthropic的 claude-3.5-sonnet-20241022
 
 :::
 
-❇️ 欢迎使用 Ai自强少年 提供的One API中转服务，当前支持 **OpenAI** 和**Anthropic** 的官方接口，后续考虑接入更多主流大模型。
+❇️ 欢迎使用 Ai自强少年 提供的One API中转服务，当前支持 **OpenAI**,**Anthropic** 和 **Google** 的官方接口，后续考虑接入更多主流大模型。
 
-🔔 本服务只是官转，没有特色，稳定不折腾，没有逆向的chat2api，旨在为网络或者支付困难的用户提供便利。折腾过就会确信：**时间就是金钱，稳定压倒一切**。
+🎁 **免费**：当前提供下面两种免费的模型，注册之后即可使用，不消耗额度；
 
-💡 你可以先在 [中转服务](https://one-api.aiporters.com/) 注册一个账号，有 **$0.1** 的体验额度，[令牌]->[添加令牌] 后就可以在内置的 [尊享 GPT](https://next.aiporters.com/) 中使用；
+**GenSpark2API**
+  - o1-preview[genspark免费]
+  - gpt-4o[genspark免费]
+  - claude-3-5-sonnet[genspark免费]
+  - gemini-1.5-pro[genspark免费]
+
+**Chat2API 逆向**
+  - gpt-4o[逆向免费]
+  - gpt-4o-mini[逆向免费]
+  - gpt-3.5-turbo[逆向免费]
+
+⚡ **付费**：当前支持 OpenAI，Anthropic，Google 的官方接口，用的都是自己的号，支持function call；
+
+💡 你可以先在 [中转服务](https://one-api.aiporters.com/) 注册一个账号，有 **$0.1** 的体验额度，[令牌]->[添加令牌] 后就可以在内置的 [LangChain NextChat](https://next.aiporters.com/) 中使用；
 
 🚦网络环境：请在外部浏览器打开链接，微信可能屏蔽了本站域名。如果响应速度慢或者打不开，请参考 [当你无法访问本站服务](/tips/cloudflare-speed.md);
 
@@ -68,11 +83,11 @@
 
 ![image.png](oneapi/create-key2.png)
 
-5. 令牌创建成功后，可以直接点击右边的**聊天**按钮，进入内置的尊享GPT使用；
+5. 令牌创建成功后，可以直接点击右边的**聊天**按钮，进入内置的LangChain NextChat使用；
 
 ![image.png](oneapi/chat-entry.png)
 
-系统会自动将令牌 和 中转地址填入尊享GPT中，这样就无需手工填写，直接开聊；
+系统会自动将令牌 和 中转地址填入LangChain NextChat中，这样就无需手工填写，直接开聊；
 
 ![image.png](oneapi/enter-key.png)
 

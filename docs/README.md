@@ -23,7 +23,7 @@ features:
   - title: 持续优化
     details: 及时跟进业内动态，搬运最新最top的AI服务。
 
-footer: Copyright © 2024 AI自强少年
+footer: Copyright © 2024-2025 AI自强少年
 ---
 
 
